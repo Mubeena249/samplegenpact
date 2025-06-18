@@ -1,0 +1,82 @@
+*.navbar img{
+    width: 200px;
+    }
+header{
+    width: 100%;
+    border-bottom: 1px solid grey;
+    position:sticky;
+    top: 0;
+    z-index: 1;
+    background-color: pink; 
+}
+
+    
+.us{
+    background-color: red;
+    color: white;
+    height: 50px;
+    width: 100px;
+}
+    
+
+
+.leader img{
+     height:400px ;
+     width: 100%;
+}
+.leader {
+    background-color: darkblue;
+}
+.leader p{
+    color: white;
+} 
+.leader h1{
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.read figure img{
+    width: 100%;
+ 
+    text-align: start;
+ }
+ .read figure{
+    text-align: start;
+    padding: 10px;
+ }
+ .last,.final{
+    background-color: black;
+    color: white;
+  }
+  .last img{
+    width: 150px;
+  }
+  .last h4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+  }
+  
+  .final h5{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .last{
+   border-bottom: 1px solid grey;
+    width: 100%;
+  }
+  
+  .dropdown:hover ,.dropdown-menu,.dropend:hover > .dropdown-menu
+  {
+      display: block;
+  }
+  .dropend:hover, .dropdown-menu{
+      position: absolute;
+      top: 0;
+      left: 100%;
+  }

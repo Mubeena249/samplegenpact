@@ -1,0 +1,98 @@
+*.navbar img{
+  width: 200px;
+  }
+header{
+  width: 100%;
+  border-bottom: 1px solid grey;
+  position:sticky;
+  top: 0;
+  z-index: 1;
+  background-color: pink; 
+}
+
+.us{
+  background-color: red;
+  color: white;
+  height: 50px;
+  width: 100px;
+}
+
+.governance img{
+    height:400px;
+    width: 100%;
+}
+.governance{
+   background-color: darkblue;
+}
+.governance h1{
+   color: white;
+   justify-content: start;
+   align-items: center;
+   padding: 80px;
+}
+.article{
+    justify-content: end;
+      background-color: red;
+      height: 50px;
+      width: 200px;
+    }
+    .career img{
+        width:100%;
+        height: 300px;
+}
+.career h3,.p{
+ justify-content: start;
+ align-items: center;
+
+}
+.career{
+ background-color: darkblue;
+}
+.career i{
+ color: yellow;
+}
+.count {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  color:black;
+  background-color:white;
+}
+.count h2{
+  font-family:Georgia, 'Times New Roman', Times, serif ;
+  font-size: 30px;
+}
+.count h5{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+}
+.dive{
+  background-color: white;
+    color:black;
+    width: 150px;
+    height: 40px;
+ }
+ .last{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background-color: darkblue;
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.last h5{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.last img{
+  width: 40px;
+}
+
+.dropdown:hover ,.dropdown-menu,.dropend:hover > .dropdown-menu
+{
+    display: block;
+}
+.dropend:hover, .dropdown-menu{
+    position: absolute;
+    top: 0;
+    left: 100%;
+}

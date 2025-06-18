@@ -1,0 +1,135 @@
+*.navbar img{
+   width: 150px;
+   }
+header{
+   width: 100%;
+   border-bottom: 1px solid grey;
+   position:sticky;
+   top: 0;
+   z-index: 1;
+   background-color: pink; 
+}
+
+.us{
+   background-color: red;
+   color: white;
+   height: 50px;
+   width: 100px;
+}
+.goods{
+ 
+   color: white;
+}
+
+.goods{
+   width: 100%;
+   height:600px ;
+   background-image: url(assets/names.avif);
+   background-size: 100%;
+   background-repeat: no-repeat;
+   background-position: cover;
+}
+.goods h1{
+   color: white;
+   justify-content: start;
+   align-items: center;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   font-size: 40px;
+   font-weight: 500;
+  
+}
+
+.client img{
+    height:400px;
+    width: 100%;
+}
+.client{
+   background-color: darkblue;
+
+}
+.client h1{
+   color: white;
+   justify-content: start;
+   align-items: center;
+
+}
+.client h5{
+    color: white;
+    justify-content: start;
+    align-items: center;
+ }
+ .flex{
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.health{
+   box-shadow: 1px 1px 10px 5px rgba(255, 0, 0, 0.503) ;
+   padding: 20px;
+   text-align: start;
+   margin: 20px;
+   z-index: 1;
+}
+.health option,.health select{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.read figure img{
+    width: 100%;
+ 
+    text-align: start;
+ }
+ .read figure{
+    text-align: start;
+    padding: 10px;
+ }
+
+
+ .how {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color:black;
+    background-color:white;
+  }
+  .operate{
+    width:200px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    text-align: start;
+  }
+  .risk{
+    width:50px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    text-align: start;
+  }
+  .view{
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+}
+    .last{
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+      background-color: darkblue;
+      color: white;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .last h5{
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .last img{
+      width: 40px;
+    }
+ .contact button{
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   width: 150px;
+   height: 50px;
+   background-color: white;
+   color: black;
+ }  

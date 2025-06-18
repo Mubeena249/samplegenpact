@@ -1,0 +1,128 @@
+*.navbar img{
+   width: 150px;
+   
+}
+header{
+   width: 100%;
+   border-bottom: 1px solid grey;
+   position:sticky;
+   top: 0;
+   z-index: 1;
+   background-color: pink; 
+}
+
+ 
+.us{
+   background-color: red;
+   color: white;
+   height: 50px;
+   width: 100px;
+}
+
+.tech img{
+    height:400px;
+    width: 100%;
+}
+.tech{
+   background-color: darkblue;
+   color: white;
+}
+.tech h1{
+   color: white;
+   justify-content: start;
+   align-items: center;
+ 
+}
+.tech h5{
+   color: white;
+   justify-content: start;
+   align-items: center;
+}
+.health{
+    box-shadow: 1px 1px 10px 5px rgba(255, 0, 0, 0.503) ;
+    padding: 20px;
+    text-align: start;
+    margin: 20px;
+    z-index: 1;
+}
+.flex{
+    flex-wrap: wrap;
+    display: flex;
+}
+.values{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    background-color:darkblue;
+ 
+  }
+  .count {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color:black;
+    background-color:white;
+  }
+  .dive{
+    background-color: white;
+      color:black;
+      width: 200px;
+      height: 40px;
+   }
+   .data img{
+    height:400px;
+    width: 100%;
+ }
+ .data{
+   background-color: darkblue;
+   color: white;
+ }
+ .data h2{
+   color: white;
+   justify-content: start;
+   align-items: center;
+   
+ }
+ .data h5{
+ color: white;
+ justify-content: start;
+ align-items: center;
+ }
+
+
+ .read figure img{
+    width: 100%;
+
+    text-align: start;
+ }
+ .read figure{
+    text-align: start;
+    padding: 10px;
+ }
+ .generative img{
+    width:100%;
+    height:100%;
+  }
+
+.think {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color:black;
+    background-color:white;
+  }
+  .last{
+   text-align: center;
+   align-items: center;
+   justify-content: center;
+   background-color: darkblue;
+   color: white;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ .last h5{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ .last img{
+   width: 40px;
+ }

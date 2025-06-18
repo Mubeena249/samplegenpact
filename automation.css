@@ -1,0 +1,100 @@
+*.navbar img{
+   width: 150px;
+   }
+.goods{
+   
+   color: white;
+}
+.goods{
+   width: 100%;
+   height:650px ;
+   background-image: url(assets/intelligent.avif);
+   background-size: 100%;
+   background-repeat: no-repeat;
+   
+}
+.goods h1{
+   color: white;
+   justify-content: start;
+   align-items: center;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   font-size: 50px;
+   font-weight: 600;
+  
+}
+.health{
+   box-shadow: 1px 1px 10px 5px rgba(255, 0, 0, 0.503) ;
+   padding: 20px;
+   text-align: start;
+   margin: 20px;
+   z-index: 1;
+}
+.health option,.health select{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.flex{
+   flex-wrap: wrap;
+   display: flex;
+}
+.count {
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   color:black;
+   background-color:white;
+ }
+ .read figure img{
+   width: 100%;
+
+   text-align: start;
+}
+.read figure{
+   text-align: start;
+   padding: 10px;
+}
+.read figure img{
+   width: 100%;
+
+   text-align: start;
+}
+.read figure{
+   text-align: start;
+   padding: 10px;
+}
+.read button{
+   background-color: black;
+   color: white;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 20px;
+}
+.read h5{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.read p,.raed h6{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+}
+.contact button{
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   width: 150px;
+   height: 50px;
+   background-color: white;
+   color: black;
+ }
+.last{
+   text-align: center;
+   align-items: center;
+   justify-content: center;
+   background-color: darkblue;
+   color: white;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ .last h5{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ .last img{
+   width: 40px;
+ }

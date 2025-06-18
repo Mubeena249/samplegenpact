@@ -1,0 +1,138 @@
+*.navbar img{
+  width: 200px;
+  }
+header{
+  width: 100%;
+  border-bottom: 1px solid grey;
+  position:sticky;
+  top: 0;
+  z-index: 1;
+  background-color: pink; 
+}
+
+
+
+.us{
+  background-color: red;
+  color: white;
+  height: 50px;
+  width: 100px;
+}
+
+.who img{
+    height:400px;
+    width: 100%;
+}
+.who {
+   background-color: darkblue;
+}
+.who p{
+  color: white;
+} 
+.who h1{
+   color: white;
+
+   justify-content: start;
+   align-items: center;
+   padding: 80px;
+}
+.search{
+    width:150px;
+    height: 50px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color: black;
+    background-color: red;
+}
+
+.forbes{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color:black;
+    background-color:white;
+  }
+  
+  .ex{
+   background-color: white;
+     color:black;
+     width: 250px;
+     height: 40px;
+  }
+  .watch p{
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+  .values{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color:black;
+    background-color:white;
+  }
+  .video{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+.career img{
+         width:100%;
+         height: 300px;
+}
+.career h3,.p{
+  justify-content: start;
+  align-items: center;
+ 
+}
+.career{
+  background-color: darkblue;
+}
+.career i{
+  color: yellow;
+}
+.article{
+justify-content: end;
+  background-color: red;
+  height: 50px;
+  width: 150px;
+}
+.culture{
+  background-color: white;
+    color:black;
+    width: 150px;
+    height: 50px;
+ }
+ .more{
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   color:black;
+   background-color:white;
+ }
+ .last{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background-color: darkblue;
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.last h5{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.last img{
+  width: 40px;
+}
+.dropdown:hover ,.dropdown-menu,.dropend:hover > .dropdown-menu
+{
+    display: block;
+}
+.dropend:hover, .dropdown-menu{
+    position: absolute;
+    top: 0;
+    left: 100%;
+}

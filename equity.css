@@ -1,0 +1,102 @@
+*.navbar img{
+    width: 150px;
+    }
+header{
+    width: 100%;
+    border-bottom: 1px solid grey;
+    position:sticky;
+    top: 0;
+    z-index: 1;
+    background-color: pink; 
+}
+
+    
+.us{
+    background-color: red;
+    color: white;
+    height: 50px;
+    width: 100px;
+}
+
+.equity img{
+    height:400px;
+    width: 100%;
+}
+.equity{
+   background-color: darkblue;
+   color: white;
+  
+  
+}
+.equity h1{
+   color: white;
+   justify-content: start;
+   align-items: center;
+}
+.equity h5{
+   color: white;
+   justify-content: start;
+   align-items: center;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.port{
+ padding: 20px;
+}
+.port img{
+    height:300px;
+    width: 100%;
+    padding: 10px;
+    text-align: start;
+}
+.career img{
+    width:100%;
+    height: 300px;
+}
+.career h3,.p{
+justify-content: start;
+align-items: center;
+
+}
+.career{
+background-color: darkblue;
+}
+.career i{
+color: yellow;
+}
+.read figure img{
+    width: 100%;
+ 
+    text-align: start;
+ }
+ .read figure{
+    text-align: start;
+    padding: 10px;
+ }
+ .how {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color:black;
+    background-color:white;
+  }
+  .report img{
+    width:100%;
+    height:100%;
+  }
+  .last{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: darkblue;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .last h5{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .last img{
+    width: 40px;
+  }  

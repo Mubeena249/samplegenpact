@@ -1,0 +1,59 @@
+*
+.navbar img{
+   width: 150px;
+   }
+   header{
+      width: 100%;
+      border-bottom: 1px solid grey;
+      position:sticky;
+      top: 0;
+      z-index: 1;
+       
+   }
+   
+.us{
+   background-color: red;
+   color: white;
+   height: 50px;
+   width: 100px;
+}
+
+.award img{
+    height:400px;
+    width: 100%;
+}
+.award{
+   background-color: darkblue;
+}
+.award h1{
+   color: white;
+   justify-content: start;
+   align-items: center;
+
+}
+.award h5{
+    color: white;
+    justify-content: start;
+    align-items: center;
+ }
+ .flex{
+    display: flex;
+    flex-wrap: wrap;
+ }
+ .port{
+    padding: 20px;
+    margin: 20px;
+   }
+   .port img{
+       height:300px;
+       width: 100%;
+       padding: 10px;
+       text-align: start;
+   }
+   .article{
+    justify-content: end;
+      background-color: red;
+      height: 50px;
+      width: 200px;
+    }
+ 

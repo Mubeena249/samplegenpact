@@ -1,0 +1,200 @@
+*.navbar img{
+  width: 150px;
+  }
+.start{
+  width: 100%;
+  border-bottom: 1px solid grey;
+  position:sticky;
+  top: 0;
+  z-index: 1;
+
+}
+header{
+  width: 100%;
+  border-bottom: 1px solid grey;
+  position:sticky;
+  top: 0;
+  z-index: 1;
+  background-color: pink; 
+}
+
+.us{
+  background-color: red;
+  color: white;
+  height: 50px;
+  width: 100px;
+}
+
+.start{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  height:80px;
+}
+
+.ai:hover{
+  color: grey;
+}
+.ai h1{
+    
+    color: steelblue;
+    font-size: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+    justify-content: end;
+    align-items: center;
+}
+.ai h2{
+  color: grey;
+  font-size: 60px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: 200;
+}
+
+.new img{
+  width: 50%;
+
+}
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+}
+.read figure img{
+  width: 100%;
+
+  text-align: start;
+}
+.read figure{
+  text-align: start;
+  padding: 10px;
+}
+.read p{
+  font-size: 15px;
+}
+.card{
+  height:200px;
+  width:70%;
+}
+.card-title{
+  background-color:grey;
+  color: white;
+}
+.carousel-item img{
+  width: 50%;
+  height: 300px;
+}
+.solution{
+  text-align: center;
+  color:steelblue;
+  background-color:black;
+}
+.solution h1{
+  font-size: 50px;
+  font-weight: 100;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.ex{
+   background-color:gray ;
+   color: white;
+   width: 250px;
+   height: 40px;
+}
+.all{
+
+ background-color:black ;
+  color: white;
+  width: 250px;
+  height: 40px;
+}
+.solution p{ 
+  color: gray;
+  font-size: 30px;
+  font-weight: 100;
+}
+.quote img{
+  width:100%;
+  height: 500px;
+}
+.box h1{
+  font-size: 80px;
+  font-weight: 100px;
+}
+.quote h1{
+  color: gray;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+  font-weight: 400;
+}
+
+.people img{
+  width:80%;
+  height: 500px;
+}
+.people h1 {
+  color: rgba(128, 128, 128, 0.908);
+  font-size: 60px;
+  font-weight: 400;
+  justify-content: start;
+  align-items: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.people p{
+  color: grey;
+}
+.people h2{
+  font-size: 30px;
+  font-weight: 100;
+  color: rgba(128, 128, 128, 0.908);
+}
+.people button
+{
+  width: 150px;
+  height: 50px;
+  color: white;
+  background-color: grey;
+}
+.people button:hover{
+  color: black;
+  background-color: aliceblue;
+}
+
+.us{
+ background-color:grey ;
+ color:white ; 
+width: 190px;
+height: 50px;
+}
+.future h1{
+  color: grey;
+ font-size: 90px;
+ font-weight: 200;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.future h2{
+  font-size: 60px;
+  font-weight: 100;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+.last,.final{
+  background-color: black;
+  color: white;
+}
+.last img{
+  width: 150px;
+}
+.last h4{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: white;
+}
+
+.final h5{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.last{
+ border-bottom: 1px solid grey;
+  width: 100%;
+}

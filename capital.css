@@ -1,0 +1,176 @@
+*.navbar img{
+    width: 200px;
+    }
+  header{
+    width: 100%;
+    border-bottom: 1px solid grey;
+    position:sticky;
+    top: 0;
+    z-index: 1;
+    background-color: pink; 
+  }
+
+.dropdown:hover ,.dropdown-menu,.dropend:hover > .dropdown-menu
+{
+    display: block;
+}
+.dropend:hover, .dropdown-menu{
+    position: absolute;
+    top: 0;
+    left: 100%;
+}
+.market p{
+  text-align: start;
+  justify-content: start;
+}
+.capital h1{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 80px;
+  font-weight: 200;
+  color: steelblue;
+  text-align: center;
+  justify-content:center;
+
+}
+.capital p{
+  color: grey;
+  font-size: 40px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  justify-content:center;
+}
+.focus h1{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 80px;
+  font-weight: 200;
+  color: steelblue;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.growth{
+  background-color: rgba(0, 0, 0, 0.41);
+}
+.health{
+  padding: 20px;
+  text-align: start;
+  margin: 20px;
+  z-index: 1;
+  background-color:rgb(105, 105, 105);
+  color: white;
+}
+.health h2{
+  font-family: 'Times New Roman', Times, serif;
+  color:steelblue;
+  font-weight: bold;
+}
+.health p{
+   font-size: 20px;
+}
+.health option,.health select{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.health:hover{
+  border: 1px solid white;
+}
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+}
+.read figure img{
+  width: 100%;
+  text-align: start;
+}
+.read figure{
+  text-align: start;
+  padding: 10px;
+}
+.read h5,p,h6{
+  text-align: center;
+  align-items: center;
+}
+.view button{
+  height:50px;
+  width:250px;
+  color: white;
+  background-color: grey;
+  font-weight: bold;
+}
+.view{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.view button:hover{
+  color: black;
+  background-color: aliceblue;
+}
+.thought h6,.service h6{
+  text-align: start;
+  justify-content: start;
+  font-weight: bold;
+}
+.thought h3,.service h3{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+  font-weight: 200;
+  color: steelblue;
+}
+.thought h5 ,.service h5{
+  color: grey;
+}
+.listen{
+  color: white;
+  background-color: grey;
+  height: 50px;
+  width: 250px;
+  font-weight: bold;
+}
+.listen:hover{
+  color: black;
+  background-color: aliceblue;
+}
+.insight{
+  color: white;
+  background-color: black;
+  height: 50px;
+  width: 200px;
+  font-weight: bold;
+}
+.insight:hover{
+  background-color: aliceblue;
+  color: grey;
+}
+.thought img{
+  width: 100%;
+  height: 100%;
+}
+.thought figure img{
+ width: 100%;
+}
+.service img{
+  width: 100%;
+  height: 80%;
+}
+.service figure img{
+ width: 70%;
+}
+.last,.final{
+  background-color: black;
+  color: white;
+}
+.last img{
+  width: 150px;
+}
+.last h4{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: white;
+}
+
+.final h5{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.last{
+ border-bottom: 1px solid grey;
+  width: 100%;
+}
