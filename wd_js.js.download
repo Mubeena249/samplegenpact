@@ -1,0 +1,253 @@
+var wdNav = {
+    setup:function() {
+        //Our Nav
+        $('.wd_has-children > a').click(function(e){
+            e.preventDefault();
+            $(this).parent().toggleClass('wd_open');
+            $(this).parent().find('.wd_subnav').toggleClass('wd_open');
+        });
+
+        //Our Nav - Mobile
+        $('button.wd_open-mobile').click(function(){
+            $('.wd_mediaroom-nav').toggleClass('wd_mobile-open');
+        });
+
+        $('button.wd_close-mobile').click(function(){
+            $('.wd_mediaroom-nav').toggleClass('wd_mobile-open');
+        });
+    },
+    init: function() {
+        this.setup();
+    }
+}
+var wdAwards = {
+    setup:function() {
+        setImageBackround($('.wd_featureboxes_awards .wd_featurebox_container'));
+    },
+    init: function() {
+        this.setup();
+    }
+}
+
+var wdSubscribe = {
+    setup:function() {
+        $('.wd_subscribe2 .wd_form_field').each(function(index) {
+            $(this).addClass('wd_form_field-' + index);
+        })
+    },
+    init: function() {
+        this.setup();
+    }
+}
+var wdAbout = {
+    setup:function() {
+        setImageBackround($('.wd_featureboxes_about .wd_featurebox_container'));
+    },
+    init: function() {
+        this.setup();
+    }
+}
+
+var teaserToolbar = {
+    setup:function() {
+        $('.wd_newsfeed_releases-teaser .item .wd_toolbar').prepend('<p>SHARE:</p>');
+    },
+    init: function() {
+        this.setup();
+    }
+}
+
+var wdInsights = {
+    setup:function() {
+        $('.wd_featureboxes_insights .wd_featurebox_container').each(function(index) {
+            $(this).find('.wd_imagetable img').prependTo($(this)).wrap('<div class="wd_featurebox_image"></div>');
+            $(this).find('.wd_imagetable').remove();
+        });
+
+        // Make FB Latest Insights images linkable
+        $('#insights-cards .wd_featureboxes_insights .wd_featurebox_container').each(function() {
+            var imageLink = $('.wd_featurebox p:first-child a', this).attr('href');
+            $('.wd_featurebox_image img', this).wrap('<a href="' + imageLink + '" target="_blank"></a>');
+        });
+    },
+    init: function() {
+        this.setup();
+    }
+}
+
+var wdFormbuilder = {
+    setup:function() {
+        $('.wd_subscribe2 .wd_form_field, .wd_pageid_20301 .wd_formbuilder .wd_form_field').removeClass('wd_form_field_pos_right');
+        $('.wd_pageid_20301 .wd_formbuilder input[type="checkbox"]').each(function() {
+            $(this).prependTo($(this).parent().parent().next());
+        });
+        //Move Labels into Fields
+        $('.wd_subscribe2 .wd_form_field').each(function() {
+            var labelText = $(this).find('.wd_form_field_label label').text();
+            $(this).find('.wd_form_field_input input, textarea').attr('placeholder', labelText);
+        });
+        
+    },
+    init: function() {
+        this.setup();
+    }
+}
+
+var wdReleasesDetail = {
+    setup:function() {
+        if ($('.wd_pageid_20295.wd_item_page').length) {
+            itemDetailToolbar();
+        }
+    },
+    init: function() {
+        this.setup();
+    }
+}
+
+var wdArticlesDetail = {
+    setup:function() {
+        itemDetailToolbar();
+    },
+    init: function() {
+        this.setup();
+    }
+}
+
+var wdFeatureBoxes = {
+    setup:function() {
+        // Top Featureboxes
+        $('.wd_featureboxes_top .wd_featurebox_container').each(function() {
+            $(this).find('.wd_featurebox p:not(.more)').wrapAll('<div class="wd_featureboxes_flex"></div>');
+        })
+
+        // Header Featureboxes
+        if($('.wd_featureboxes_header .wd_imagetable').length && $('img.wd_headerimg').length) {
+            var img = $('.wd_featureboxes_header .wd_imagetable img').attr('src');
+            var alt = $('.wd_featureboxes_header .wd_imagetable img').attr('alt');
+            if (alt == undefined) {
+                alt = '';
+            }
+            $('img.wd_headerimg').attr('src', img).attr('alt', alt);
+            $('.wd_featureboxes_header .wd_imagetable').remove();
+	    $('.wd_featureboxes_header .wd_featurebox p:first').contents().wrap('<a href="'+ $('.wd_featureboxes_header .wd_featurebox p.more a').attr('href') +'"></a>');
+	    $('.hero-forty-sixty .right-column > *').wrapAll('<a href="'+ $('.wd_featureboxes_header .wd_featurebox p.more a').attr('href') +'"></a>');
+        }
+    },
+    init: function() {
+        this.setup();
+    }
+}
+
+var inputFields = {
+    setup:function() {
+        // wraps input fields in divs for outline border
+        if (document.querySelector('input[type="text"]') != null) {
+            $('input[type="text"]').each(function() {
+                $(this).wrap('<div class="wd_input_wrapper"></div>');
+            });   
+        }
+
+    }, 
+    init: function() {
+        this.setup();
+    }
+}
+
+var textareaFields = {
+    setup:function() {
+        // wraps textarea fields in divs for outline border
+        if (document.querySelector('textarea') != null) {
+            $('textarea').each(function() {
+                $(this).wrap('<div class="wd_textarea_wrapper"></div>');
+            });
+        }
+    },
+    init: function() {
+        this.setup();
+    }
+}
+
+function setImageBackround(container) {
+    // container should be fbox container
+    $container = $(container);
+    var _url = $container.find('a').attr('href');
+	$container.append('<p class="more"><a class="" href="'+_url+'">Learn More</a>')
+    var bg_url = $container.find('.wd_imagetable img').attr('src');
+    $container.wrapInner('<div class="wd_tile"><div class="inner_wrap"></div></div>');
+    //$(this).find('.wd_tile').css('background-image','url('+bg_url+')');
+    $container.find('.wd_tile').prepend('<figure style="background-image: url('+bg_url+')" class="wd_float_img"></figure>'); 
+    $container.find('.wd_imagetable').remove();
+}
+
+function itemDetailToolbar(){
+    var titleType = '';
+    var contentType = $('#wd_printable_content').find('>:first-child').attr('class');
+	if (contentType === undefined) {
+		// find first div with a class attr, useful if there is some body copy on the page
+		contentType = $('#wd_printable_content').find('> div[class]').attr('class');
+	}
+	switch(contentType){
+		case 'wd_articles-detail':
+			itemType = '.wd_item';
+			titleType = '.wd_title';
+			break;
+		case 'wd_newsfeed_releases-detail':
+			itemType = '.wd_asset_list .wd_icon_overlay';
+			titleType = '.wd_title';
+			break;
+		case 'wd_standard':
+			itemType = '.item';
+			titleType = '.item_name';
+			break;
+	}
+    var pageLink = encodeURIComponent(window.location.href);
+	var itemLink = $('.'+contentType).find(titleType+' a').attr('href');
+	var itemTitle = $('.'+contentType).find(titleType).text();
+
+    itemLink = escapeHtml(itemLink);
+    itemTitle = escapeHtml(itemTitle);
+
+	$('.social-share-linkedin').attr('data-share-url', 'https://www.linkedin.com/shareArticle?mini=true&amp;url=' + pageLink + '&title=' + itemTitle);
+	$('.social-share-twitter').attr('data-share-url', 'https://twitter.com/intent/tweet?url=' + pageLink + '&text=' + itemTitle)
+	$('.social-share-facebook').attr('data-share-url', 'https://www.facebook.com/sharer/sharer.php?u=' + pageLink);
+	$('.social-share-mailto').attr('data-share-url', 'mailto:?&amp;subject=' + itemTitle + '&body=' + pageLink);
+}
+
+var addActive = {
+    setup:function() {
+    $('.wd_pageid_20300 .more.wd_desk_only').addClass('active');
+    },
+    init: function() {
+        this.setup();
+    }
+}
+		
+function escapeHtml(string){
+	var entityMap = {
+		"&": "&amp;",
+		"<": "&lt;",
+		">": "&gt;",
+		'"': "&quot;",
+		"'": "&#39;",
+		"/": "&#x2F;",
+		"`": "&#x60;",
+		"=": "&#x3D;"
+	};
+	return String(string).replace(/[&<>"'`=\/]/g, function(s){
+		return entityMap[s];
+	});
+}
+
+wdNav.init();
+wdAwards.init();
+wdAbout.init();
+wdReleasesDetail.init();
+wdArticlesDetail.init();
+wdInsights.init();
+teaserToolbar.init();
+wdFormbuilder.init();
+wdSubscribe.init();
+wdFeatureBoxes.init();
+inputFields.init();
+textareaFields.init();
+addActive.init();
