@@ -1,0 +1,3464 @@
+
+  <!DOCTYPE HTML>
+  <html lang="en">
+      <head>
+<meta charset="UTF-8"/>
+<title>Banking and Capital Markets | Genpact</title>
+
+<meta name="description" content="Genpact partners with banking and capital market companies to shape the future of financial services by leveraging its real-world experience."/>
+<meta name="template" content="industry-overview"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta name="google-site-verification" content="CO_AuFu9TavKZhtUPQ4GHt6XeZxYQwmvclNf51fladc"/>
+
+
+
+<script defer="defer" type="text/javascript" src="https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/dist/rum-standalone.js" data-routing="program=136604,environment=1369602,tier=publish"></script>
+<link rel="canonical" href="https://www.genpact.com/industries/banking-and-capital-markets"/>
+
+
+
+
+<!-- Third party scripts -->
+<!-- OneTrust Cookies Consent Notice start for genpact.com -->
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="44aace8c-5f3c-4663-9204-ae88dfa229bd"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end for genpact.com -->
+
+
+    <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-M9Z3GG');
+    </script>	
+
+<!-- Start VWO Async SmartCode -->
+<link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com"/>
+<script type='text/javascript' id='vwoCode'>
+    window._vwo_code || (function () {
+        var account_id = 887887,
+            version = 2.1,
+            settings_tolerance = 2000,
+            hide_element = 'body',
+            hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important',
+            /* DO NOT EDIT BELOW THIS LINE */
+            f = false, w = window, d = document, v = d.querySelector('#vwoCode'), cK = '_vwo_' + account_id + '_settings', cc = {}; try { var c = JSON.parse(localStorage.getItem('_vwo_' + account_id + '_config')); cc = c && typeof c === 'object' ? c : {} } catch (e) { } var stT = cc.stT === 'session' ? w.sessionStorage : w.localStorage; code = { use_existing_jquery: function () { return typeof use_existing_jquery !== 'undefined' ? use_existing_jquery : undefined }, library_tolerance: function () { return typeof library_tolerance !== 'undefined' ? library_tolerance : undefined }, settings_tolerance: function () { return cc.sT || settings_tolerance }, hide_element_style: function () { return '{' + (cc.hES || hide_element_style) + '}' }, hide_element: function () { if (performance.getEntriesByName('first-contentful-paint')[0]) { return '' } return typeof cc.hE === 'string' ? cc.hE : hide_element }, getVersion: function () { return version }, finish: function (e) { if (!f) { f = true; var t = d.getElementById('_vis_opt_path_hides'); if (t) t.parentNode.removeChild(t); if (e) (new Image).src = 'https://dev.visualwebsiteoptimizer.com/ee.gif?a=' + account_id + e } }, finished: function () { return f }, addScript: function (e) { var t = d.createElement('script'); t.type = 'text/javascript'; if (e.src) { t.src = e.src } else { t.text = e.text } d.getElementsByTagName('head')[0].appendChild(t) }, load: function (e, t) { var i = this.getSettings(), n = d.createElement('script'), r = this; t = t || {}; if (i) { n.textContent = i; d.getElementsByTagName('head')[0].appendChild(n); if (!w.VWO || VWO.caE) { stT.removeItem(cK); r.load(e) } } else { var o = new XMLHttpRequest; o.open('GET', e, true); o.withCredentials = !t.dSC; o.responseType = t.responseType || 'text'; o.onload = function () { if (t.onloadCb) { return t.onloadCb(o, e) } if (o.status === 200) { _vwo_code.addScript({ text: o.responseText }) } else { _vwo_code.finish('&e=loading_failure:' + e) } }; o.onerror = function () { if (t.onerrorCb) { return t.onerrorCb(e) } _vwo_code.finish('&e=loading_failure:' + e) }; o.send() } }, getSettings: function () { try { var e = stT.getItem(cK); if (!e) { return } e = JSON.parse(e); if (Date.now() > e.e) { stT.removeItem(cK); return } return e.s } catch (e) { return } }, init: function () { if (d.URL.indexOf('__vwo_disable__') > -1) return; var e = this.settings_tolerance(); w._vwo_settings_timer = setTimeout(function () { _vwo_code.finish(); stT.removeItem(cK) }, e); var t; if (this.hide_element() !== 'body') { t = d.createElement('style'); var i = this.hide_element(), n = i ? i + this.hide_element_style() : '', r = d.getElementsByTagName('head')[0]; t.setAttribute('id', '_vis_opt_path_hides'); v && t.setAttribute('nonce', v.nonce); t.setAttribute('type', 'text/css'); if (t.styleSheet) t.styleSheet.cssText = n; else t.appendChild(d.createTextNode(n)); r.appendChild(t) } else { t = d.getElementsByTagName('head')[0]; var n = d.createElement('div'); n.style.cssText = 'z-index: 2147483647 !important;position: fixed !important;left: 0 !important;top: 0 !important;width: 100% !important;height: 100% !important;background: white !important;'; n.setAttribute('id', '_vis_opt_path_hides'); n.classList.add('_vis_hide_layer'); t.parentNode.insertBefore(n, t.nextSibling) } var o = 'https://dev.visualwebsiteoptimizer.com/j.php?a=' + account_id + '&u=' + encodeURIComponent(d.URL) + '&vn=' + version; if (w.location.search.indexOf('_vwo_xhr') !== -1) { this.addScript({ src: o }) } else { this.load(o + '&x=true') } } }; w._vwo_code = code; code.init();
+    })();
+</script>
+<!-- End VWO Async SmartCode -->
+
+
+
+    
+    <link rel="stylesheet" href="/etc.clientlibs/genpact/clientlibs/clientlib-base.lc-85d594f3d80a94970403008675a60abe-lc.min.css" type="text/css">
+
+
+    
+
+
+
+    
+    
+
+    
+
+    
+    <script async src="/etc.clientlibs/genpact/clientlibs/clientlib-dependencies.lc-d41d8cd98f00b204e9800998ecf8427e-lc.min.js"></script>
+
+
+    
+    <link rel="stylesheet" href="/etc.clientlibs/genpact/clientlibs/clientlib-dependencies.lc-d41d8cd98f00b204e9800998ecf8427e-lc.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/genpact/clientlibs/clientlib-site.lc-0a8e788eb252a1c4efe32aa8cf94f6dc-lc.min.css" type="text/css">
+
+
+    
+    
+    <script async src="/etc.clientlibs/core/wcm/components/commons/datalayer/v2/clientlibs/core.wcm.components.commons.datalayer.v2.lc-1e0136bad0acfb78be509234578e44f9-lc.min.js"></script>
+
+
+    
+    <script async src="/etc.clientlibs/core/wcm/components/commons/datalayer/acdl/core.wcm.components.commons.datalayer.acdl.lc-bf921af342fd2c40139671dbf0920a1f-lc.min.js"></script>
+
+
+
+
+<script type="text/javascript" src="https://cdn.evgnet.com/beacon/genpact/genpact_prod/scripts/evergage.min.js"></script>
+
+</head>
+      <body class="page basicpage page--dark" id="page-46abf88e00" data-cmp-link-accessibility-enabled data-cmp-link-accessibility-text="opens in a new tab" data-cmp-data-layer-enabled data-cmp-data-layer-name="adobeDataLayer">
+          <script>
+            var dataLayerName = 'adobeDataLayer' || 'adobeDataLayer';
+            window[dataLayerName] = window[dataLayerName] || [];
+            window[dataLayerName].push({
+                page: JSON.parse("{\x22page\u002D46abf88e00\x22:{\x22@type\x22:\x22genpact\/components\/page\x22,\x22repo:modifyDate\x22:\x222024\u002D12\u002D12T00:47:22Z\x22,\x22dc:title\x22:\x22Banking and Capital Markets\x22,\x22dc:description\x22:\x22Genpact partners with banking and capital market companies to shape the future of financial services by leveraging its real\u002Dworld experience.\x22,\x22xdm:template\x22:\x22\/conf\/genpact\/settings\/wcm\/templates\/industry\u002Doverview\x22,\x22xdm:language\x22:\x22en\x22,\x22xdm:tags\x22:[],\x22repo:path\x22:\x22\/content\/genpact\/us\/en\/industries\/banking\u002Dand\u002Dcapital\u002Dmarkets.html\x22}}"),
+                event:'cmp:show',
+                eventInfo: {
+                    path: 'page.page\u002D46abf88e00'
+                }
+            });
+          </script>
+
+          <!-- Third party scripts -->
+           
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M9Z3GG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+          
+          
+              
+
+
+
+
+              
+<div class="root container cmp-container--root">
+
+    
+    
+    
+    <div id="container-44f18ecd2c" class="cmp-container">
+        
+        <div class="experiencefragment cmp-experiencefragment--sticky">
+<div id="header" class="cmp-experiencefragment cmp-experiencefragment--header0">
+
+
+    
+    <div id="container-1ad3d0b2c8" class="cmp-container">
+        
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="container cmp-container--header aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    
+    <div id="container-0f97f2973f" class="cmp-container">
+        
+        <div class="image cmp-image--header-logo">
+  <div data-cmp-is="image" data-cmp-src="/content/experience-fragments/genpact/us/en/site/header0/header/_jcr_content/root/container_1299338043/image.coreimg{.width}.svg/1733521110070/genpact-logo.svg" data-asset-id="60206dd3-034c-4adf-81d8-3ae18972bbde" data-cmp-filereference="/content/dam/genpact/logos/svg/genpact-logo.svg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ <a class="cmp-image__link" href="https://www.genpact.com">
+     <img src="/content/experience-fragments/genpact/us/en/site/header0/header/_jcr_content/root/container_1299338043/image.coreimg.svg/1733521110070/genpact-logo.svg" class="cmp-image__image" itemprop="contentUrl" alt="Genpact"/>
+    
+    
+
+ </a>
+ 
+ 
+</div>
+
+    
+
+</div>
+<div class="container cmp-container--nav hide">
+
+    
+    
+    
+    <div id="nav-container" class="cmp-container">
+        
+        <div class="accordion panelcontainer cmp-accordion--megamenu">
+<div id="megamenu" class="cmp-accordion" data-cmp-is="accordion" data-cmp-data-layer="{&#34;megamenu&#34;:{&#34;shownItems&#34;:[],&#34;@type&#34;:&#34;genpact/components/accordion&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-24T17:01:24Z&#34;}}" data-cmp-single-expansion data-placeholder-text="false">
+    <div class="cmp-accordion__item" data-cmp-hook-accordion="item" data-cmp-data-layer="{&#34;megamenu-item-d44e22e0b9&#34;:{&#34;@type&#34;:&#34;genpact/components/accordion/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-12T14:42:38Z&#34;,&#34;dc:title&#34;:&#34;Who We Are&#34;}}" id="megamenu-item-d44e22e0b9">
+        <h2 class="cmp-accordion__header">
+            <button id="megamenu-item-d44e22e0b9-button" class="cmp-accordion__button" type="button" aria-controls="megamenu-item-d44e22e0b9-panel" data-cmp-hook-accordion="button">
+                <span class="cmp-accordion__title">Who We Are</span>
+                <span class="cmp-accordion__icon"></span>
+            </button>
+        </h2>
+        <div data-cmp-hook-accordion="panel" id="megamenu-item-d44e22e0b9-panel" class="cmp-accordion__panel cmp-accordion__panel--hidden" role="region" aria-labelledby="megamenu-item-d44e22e0b9-button"><div class="container cmp-container--col-2-66-33 cmp-container--drop-shadow">
+
+    
+    
+    
+    <div id="container-c4ab662c2e" class="cmp-container">
+        
+        <div class="container cmp-container--col-2 cmp-container--menu-gradient">
+
+    
+    
+    
+    <div id="container-6c1ff340ad" class="cmp-container">
+        
+        <div class="container cmp-container--menu-list">
+
+    
+    
+    
+    <div id="container-9b1d6fa65c" class="cmp-container">
+        
+        <div class="text cmp-text--menu-title">
+<div data-cmp-data-layer="{&#34;text-8d1ae5b784&#34;:{&#34;@type&#34;:&#34;genpact/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-23T16:28:58Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>About Genpact&lt;/p>\r\n&#34;}}" id="text-8d1ae5b784" class="cmp-text">
+    <p>About Genpact</p>
+
+</div>
+
+    
+
+</div>
+<div class="list cmp-list--menu">
+<ul id="list-fc22c13235" data-cmp-data-layer="{&#34;list-fc22c13235&#34;:{&#34;@type&#34;:&#34;genpact/components/list&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-18T18:57:56Z&#34;}}" class="cmp-list">
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-fc22c13235-item-da36f31b4b&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:43Z&#34;,&#34;dc:title&#34;:&#34;About Us&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/about-us&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/about-us">
+        <span class="cmp-list__item-title">About Us</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-fc22c13235-item-4bb560270a&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:38Z&#34;,&#34;dc:title&#34;:&#34;Our Leadership&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/about-us/leadership&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/about-us/leadership">
+        <span class="cmp-list__item-title">Our Leadership</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-fc22c13235-item-ba9b77ed43&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:38Z&#34;,&#34;dc:title&#34;:&#34;Our Board&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/about-us/board&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/about-us/board">
+        <span class="cmp-list__item-title">Our Board</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-fc22c13235-item-2487cec856&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:38Z&#34;,&#34;dc:title&#34;:&#34;Our People&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/careers/who-we-are&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/careers/who-we-are">
+        <span class="cmp-list__item-title">Our People</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-fc22c13235-item-50d17cbf19&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:39Z&#34;,&#34;dc:title&#34;:&#34;Our Purpose&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/purpose&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/purpose">
+        <span class="cmp-list__item-title">Our Purpose</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-fc22c13235-item-c55d9f3463&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:39Z&#34;,&#34;dc:title&#34;:&#34;Corporate Governance&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/about-us/governance&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/about-us/governance">
+        <span class="cmp-list__item-title">Corporate Governance</span>
+        
+    </a>
+    
+</li>
+    
+</ul>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container cmp-container--menu-list">
+
+    
+    
+    
+    <div id="container-9ca192b077" class="cmp-container">
+        
+        <div class="text cmp-text--menu-title">
+<div data-cmp-data-layer="{&#34;text-f9170ac9c0&#34;:{&#34;@type&#34;:&#34;genpact/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-23T16:29:33Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Media and Investors&lt;/p>\r\n&#34;}}" id="text-f9170ac9c0" class="cmp-text">
+    <p>Media and Investors</p>
+
+</div>
+
+    
+
+</div>
+<div class="list cmp-list--menu">
+<ul id="list-3867c3f17f" data-cmp-data-layer="{&#34;list-3867c3f17f&#34;:{&#34;@type&#34;:&#34;genpact/components/list&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-29T20:26:32Z&#34;}}" class="cmp-list">
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-3867c3f17f-item-eade3b9947&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:39Z&#34;,&#34;dc:title&#34;:&#34;Investors&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/investors&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/investors">
+        <span class="cmp-list__item-title">Investors</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-3867c3f17f-item-5c7cd4b955&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:39Z&#34;,&#34;dc:title&#34;:&#34;Newsroom&#34;,&#34;xdm:linkURL&#34;:&#34;https://media.genpact.com/&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://media.genpact.com/">
+        <span class="cmp-list__item-title">Newsroom</span>
+        
+    </a>
+    
+</li>
+    
+</ul>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="experiencefragment hide-navigation cmp-experiencefragment--nav-message">
+<div id="experiencefragment-63ddff10d2" class="cmp-experiencefragment cmp-experiencefragment--nav-banner">
+
+
+    
+    <div id="container-fe985916cd" class="cmp-container">
+        
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="container cmp-container--message hide-mobile aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    
+    <div id="container-f04c43f6f1" class="cmp-container">
+        
+        <div class="text cmp-text--badge">
+<div data-cmp-data-layer="{&#34;text-7ca3024650&#34;:{&#34;@type&#34;:&#34;genpact/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-06T15:06:17Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>We&#39;re hiring!&lt;/p>\r\n&#34;}}" id="text-7ca3024650" class="cmp-text">
+    <p>We&#39;re hiring!</p>
+
+</div>
+
+    
+
+</div>
+<div class="text cmp-text--message">
+<div data-cmp-data-layer="{&#34;text-2d6ff56fc8&#34;:{&#34;@type&#34;:&#34;genpact/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-24T14:59:51Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Careers: We’re always looking for talented people. &lt;a href=\&#34;https://www.genpact.com/careers\&#34;>Join us.&lt;/a>&lt;/p>\r\n&#34;}}" id="text-2d6ff56fc8" class="cmp-text">
+    <p>Careers: We’re always looking for talented people. <a href="https://www.genpact.com/careers">Join us.</a></p>
+
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container cmp-container--featured-insights">
+
+    
+    
+    
+    <div id="container-3d6b15fa74" class="cmp-container">
+        
+        <div class="text cmp-text--menu-title">
+<div data-cmp-data-layer="{&#34;text-13afe08ba7&#34;:{&#34;@type&#34;:&#34;genpact/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-27T04:04:41Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Featured Insights&lt;/p>\r\n&#34;}}" id="text-13afe08ba7" class="cmp-text">
+    <p>Featured Insights</p>
+
+</div>
+
+    
+
+</div>
+<div class="teaser cmp-teaser--card">
+<div id="teaser-0295d78727" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-0295d78727&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-27T04:06:44Z&#34;,&#34;dc:title&#34;:&#34;Point of view&#34;,&#34;dc:description&#34;:&#34;&lt;p>Six principles for success with AI and analytics&lt;/p>\r\n&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/six-principles-for-success-with-ai-and-analytics&#34;}}">
+ <a class="cmp-teaser__link" data-cmp-clickable href="https://www.genpact.com/insight/six-principles-for-success-with-ai-and-analytics">
+     <div class="cmp-teaser__content">
+         
+    <p class="cmp-teaser__pretitle">Read more</p>
+
+         
+    <h2 class="cmp-teaser__title">
+        Point of view
+    </h2>
+
+         
+    <div class="cmp-teaser__description"><p>Six principles for success with AI and analytics</p>
+</div>
+
+         
+    
+
+     </div>
+     
+    <div class="cmp-teaser__image">
+        
+            
+  <div data-cmp-is="image" data-cmp-src="/content/experience-fragments/genpact/us/en/site/header0/header/_jcr_content/root/container_1299338043/container/accordion_copy/item_1/container_1092942097/teaser.coreimg{.width}.jpeg/1719461204326/featured-insights-1.jpeg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="/content/experience-fragments/genpact/us/en/site/header0/header/_jcr_content/root/container_1299338043/container/accordion_copy/item_1/container_1092942097/teaser.coreimg.jpeg/1719461204326/featured-insights-1.jpeg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt/>
+    
+    
+
+ 
+ 
+ 
+</div>
+
+    
+
+
+        
+    </div>
+
+ </a>
+</div>
+
+    
+</div>
+<div class="teaser cmp-teaser--card">
+<div id="teaser-7ae9395060" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-7ae9395060&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-25T23:08:12Z&#34;,&#34;dc:title&#34;:&#34;Video&#34;,&#34;dc:description&#34;:&#34;&lt;p>Fighting financial crime with generative AI&lt;/p>\r\n&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/fighting-financial-crime-with-gen-ai-industry-leaders-discuss-an-applied-use-case&#34;}}">
+ <a class="cmp-teaser__link" data-cmp-clickable href="https://www.genpact.com/insight/fighting-financial-crime-with-gen-ai-industry-leaders-discuss-an-applied-use-case">
+     <div class="cmp-teaser__content">
+         
+    <p class="cmp-teaser__pretitle">Watch the video</p>
+
+         
+    <h2 class="cmp-teaser__title">
+        Video
+    </h2>
+
+         
+    <div class="cmp-teaser__description"><p>Fighting financial crime with generative AI</p>
+</div>
+
+         
+    
+
+     </div>
+     
+    <div class="cmp-teaser__image">
+        
+            
+  <div data-cmp-is="image" data-cmp-src="/content/experience-fragments/genpact/us/en/site/header0/header/_jcr_content/root/container_1299338043/container/accordion_copy/item_1/container_1092942097/teaser_copy.coreimg{.width}.jpeg/1719356892592/featured-insights-2.jpeg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="/content/experience-fragments/genpact/us/en/site/header0/header/_jcr_content/root/container_1299338043/container/accordion_copy/item_1/container_1092942097/teaser_copy.coreimg.jpeg/1719356892592/featured-insights-2.jpeg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt/>
+    
+    
+
+ 
+ 
+ 
+</div>
+
+    
+
+
+        
+    </div>
+
+ </a>
+</div>
+
+    
+</div>
+
+        
+    </div>
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+<div class="cmp-accordion__item" data-cmp-hook-accordion="item" data-cmp-data-layer="{&#34;megamenu-item-995ea00154&#34;:{&#34;@type&#34;:&#34;genpact/components/accordion/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-05T22:25:29Z&#34;,&#34;dc:title&#34;:&#34;What We Do&#34;}}" id="megamenu-item-995ea00154">
+        <h2 class="cmp-accordion__header">
+            <button id="megamenu-item-995ea00154-button" class="cmp-accordion__button" type="button" aria-controls="megamenu-item-995ea00154-panel" data-cmp-hook-accordion="button">
+                <span class="cmp-accordion__title">What We Do</span>
+                <span class="cmp-accordion__icon"></span>
+            </button>
+        </h2>
+        <div data-cmp-hook-accordion="panel" id="megamenu-item-995ea00154-panel" class="cmp-accordion__panel cmp-accordion__panel--hidden" role="region" aria-labelledby="megamenu-item-995ea00154-button"><div class="container cmp-container--submenu cmp-container--drop-shadow-menu-gradient">
+
+    
+    
+    
+    <div id="container-787406ca1c" class="cmp-container">
+        
+        <div class="accordion panelcontainer cmp-accordion--submenu">
+<div id="accordion-59fcd07d02" class="cmp-accordion" data-cmp-is="accordion" data-cmp-data-layer="{&#34;accordion-59fcd07d02&#34;:{&#34;shownItems&#34;:[&#34;accordion-59fcd07d02-item-0c0e47fbe3&#34;],&#34;@type&#34;:&#34;genpact/components/accordion&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T14:54:32Z&#34;}}" data-cmp-single-expansion data-placeholder-text="false">
+    <div class="cmp-accordion__item" data-cmp-hook-accordion="item" data-cmp-data-layer="{&#34;accordion-59fcd07d02-item-0c0e47fbe3&#34;:{&#34;@type&#34;:&#34;genpact/components/accordion/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T15:39:34Z&#34;,&#34;dc:title&#34;:&#34;Industries&#34;}}" id="accordion-59fcd07d02-item-0c0e47fbe3" data-cmp-expanded>
+        <h2 class="cmp-accordion__header">
+            <button id="accordion-59fcd07d02-item-0c0e47fbe3-button" class="cmp-accordion__button cmp-accordion__button--expanded" type="button" aria-controls="accordion-59fcd07d02-item-0c0e47fbe3-panel" data-cmp-hook-accordion="button">
+                <span class="cmp-accordion__title">Industries</span>
+                <span class="cmp-accordion__icon"></span>
+            </button>
+        </h2>
+        <div data-cmp-hook-accordion="panel" id="accordion-59fcd07d02-item-0c0e47fbe3-panel" class="cmp-accordion__panel cmp-accordion__panel--expanded" role="region" aria-labelledby="accordion-59fcd07d02-item-0c0e47fbe3-button"><div class="container cmp-container--submenu-list">
+
+    
+    
+    
+    <div id="container-b186f5dfbb" class="cmp-container">
+        
+        <div class="text cmp-text--menu-title hide-mobile">
+<div data-cmp-data-layer="{&#34;text-ea6aa1d7f3&#34;:{&#34;@type&#34;:&#34;genpact/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-03T20:17:25Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Industries&lt;/p>\r\n&#34;}}" id="text-ea6aa1d7f3" class="cmp-text">
+    <p>Industries</p>
+
+</div>
+
+    
+
+</div>
+<div class="list cmp-list--menu">
+<ul id="list-3f6e9a4f4d" data-cmp-data-layer="{&#34;list-3f6e9a4f4d&#34;:{&#34;@type&#34;:&#34;genpact/components/list&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-11T22:22:42Z&#34;}}" class="cmp-list">
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-3f6e9a4f4d-item-46abf88e00&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-06T19:02:13Z&#34;,&#34;dc:title&#34;:&#34;Banking and Capital Markets&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/industries/banking-and-capital-markets&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/industries/banking-and-capital-markets">
+        <span class="cmp-list__item-title">Banking and Capital Markets</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-3f6e9a4f4d-item-1d910709c5&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-09T14:33:23Z&#34;,&#34;dc:title&#34;:&#34;Communications, Media, and Entertainment&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/industries/communications-media-entertainment&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/industries/communications-media-entertainment">
+        <span class="cmp-list__item-title">Communications, Media, and Entertainment</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-3f6e9a4f4d-item-9accce8715&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-09T14:33:10Z&#34;,&#34;dc:title&#34;:&#34;Consumer Goods and Retail&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/industries/consumer-goods-and-retail&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/industries/consumer-goods-and-retail">
+        <span class="cmp-list__item-title">Consumer Goods and Retail</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-3f6e9a4f4d-item-34281c6718&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-09T14:33:11Z&#34;,&#34;dc:title&#34;:&#34;Healthcare and Life Sciences&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/industries/healthcare-and-life-sciences&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/industries/healthcare-and-life-sciences">
+        <span class="cmp-list__item-title">Healthcare and Life Sciences</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-3f6e9a4f4d-item-3e88f27101&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-11T22:14:14Z&#34;,&#34;dc:title&#34;:&#34;High Tech&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/industries/high-tech&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/industries/high-tech">
+        <span class="cmp-list__item-title">High Tech</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-3f6e9a4f4d-item-3a575ef03e&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-09T14:33:18Z&#34;,&#34;dc:title&#34;:&#34;Insurance&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/industries/insurance&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/industries/insurance">
+        <span class="cmp-list__item-title">Insurance</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-3f6e9a4f4d-item-21129d117b&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-09T14:33:16Z&#34;,&#34;dc:title&#34;:&#34;Manufacturing&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/industries/manufacturing&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/industries/manufacturing">
+        <span class="cmp-list__item-title">Manufacturing</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-3f6e9a4f4d-item-40b6c0f0dc&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-09T14:33:18Z&#34;,&#34;dc:title&#34;:&#34;Private Equity&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/industries/private-equity&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/industries/private-equity">
+        <span class="cmp-list__item-title">Private Equity</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-3f6e9a4f4d-item-0e57abcee8&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-09T14:33:20Z&#34;,&#34;dc:title&#34;:&#34;Software and Digital Platforms&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/industries/software-and-digital-platforms&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/industries/software-and-digital-platforms">
+        <span class="cmp-list__item-title">Software and Digital Platforms</span>
+        
+    </a>
+    
+</li>
+    
+</ul>
+
+    
+
+</div>
+<div class="button cmp-button--header-cta-link cmp-button--header-cta-link-pos-left">
+  <a id="button-58803be3ab" class="cmp-button" data-cmp-clickable data-cmp-data-layer="{&#34;button-58803be3ab&#34;:{&#34;@type&#34;:&#34;genpact/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-21T13:54:53Z&#34;,&#34;dc:title&#34;:&#34;All Industries&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/industries&#34;}}" href="https://www.genpact.com/industries">
+
+    <span class="cmp-button__icon cmp-button__icon--right-arrow" aria-hidden="true"></span>
+
+<span class="cmp-button__text">All Industries</span>
+</a>
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+<div class="cmp-accordion__item" data-cmp-hook-accordion="item" data-cmp-data-layer="{&#34;accordion-59fcd07d02-item-9baf604db5&#34;:{&#34;@type&#34;:&#34;genpact/components/accordion/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T16:21:07Z&#34;,&#34;dc:title&#34;:&#34;Services&#34;}}" id="accordion-59fcd07d02-item-9baf604db5">
+        <h2 class="cmp-accordion__header">
+            <button id="accordion-59fcd07d02-item-9baf604db5-button" class="cmp-accordion__button" type="button" aria-controls="accordion-59fcd07d02-item-9baf604db5-panel" data-cmp-hook-accordion="button">
+                <span class="cmp-accordion__title">Services</span>
+                <span class="cmp-accordion__icon"></span>
+            </button>
+        </h2>
+        <div data-cmp-hook-accordion="panel" id="accordion-59fcd07d02-item-9baf604db5-panel" class="cmp-accordion__panel cmp-accordion__panel--hidden" role="region" aria-labelledby="accordion-59fcd07d02-item-9baf604db5-button"><div class="container cmp-container--submenu-list cmp-container--col-2">
+
+    
+    
+    
+    <div id="container-0a5cd4efef" class="cmp-container">
+        
+        <div class="container cmp-container--menu-list-alt">
+
+    
+    
+    
+    <div id="container-db1ad1cdcd" class="cmp-container">
+        
+        <div class="text cmp-text--menu-title">
+<div data-cmp-data-layer="{&#34;text-ef330cc2b8&#34;:{&#34;@type&#34;:&#34;genpact/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T16:18:22Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Digital Services&lt;/p>\r\n&#34;}}" id="text-ef330cc2b8" class="cmp-text">
+    <p>Digital Services</p>
+
+</div>
+
+    
+
+</div>
+<div class="list cmp-list--menu">
+<ul id="list-42371dc616" data-cmp-data-layer="{&#34;list-42371dc616&#34;:{&#34;@type&#34;:&#34;genpact/components/list&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-18T18:55:46Z&#34;}}" class="cmp-list">
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-42371dc616-item-6c0d013c4e&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:40Z&#34;,&#34;dc:title&#34;:&#34;Artificial Intelligence&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/services/artificial-intelligence&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/services/artificial-intelligence">
+        <span class="cmp-list__item-title">Artificial Intelligence</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-42371dc616-item-6cf0469357&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:39Z&#34;,&#34;dc:title&#34;:&#34;Intelligent Automation&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/services/automation&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/services/automation">
+        <span class="cmp-list__item-title">Intelligent Automation</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-42371dc616-item-1e6ee9889d&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:39Z&#34;,&#34;dc:title&#34;:&#34;Cloud&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/services/cloud&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/services/cloud">
+        <span class="cmp-list__item-title">Cloud</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-42371dc616-item-261df503c4&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:39Z&#34;,&#34;dc:title&#34;:&#34;Data and Analytics&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/services/data-and-analytics&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/services/data-and-analytics">
+        <span class="cmp-list__item-title">Data and Analytics</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-42371dc616-item-3e4986a177&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:39Z&#34;,&#34;dc:title&#34;:&#34;Experience&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/services/experience&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/services/experience">
+        <span class="cmp-list__item-title">Experience</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-42371dc616-item-de26c00937&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:39Z&#34;,&#34;dc:title&#34;:&#34;Technology Services&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/services/technology-services&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/services/technology-services">
+        <span class="cmp-list__item-title">Technology Services</span>
+        
+    </a>
+    
+</li>
+    
+</ul>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container cmp-container--menu-list-alt">
+
+    
+    
+    
+    <div id="container-66202160aa" class="cmp-container">
+        
+        <div class="text cmp-text--menu-title">
+<div data-cmp-data-layer="{&#34;text-9aa15e8f01&#34;:{&#34;@type&#34;:&#34;genpact/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T16:20:29Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Business Services&lt;/p>\r\n&#34;}}" id="text-9aa15e8f01" class="cmp-text">
+    <p>Business Services</p>
+
+</div>
+
+    
+
+</div>
+<div class="list cmp-list--menu">
+<ul id="list-8283c1be4d" data-cmp-data-layer="{&#34;list-8283c1be4d&#34;:{&#34;@type&#34;:&#34;genpact/components/list&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T20:07:50Z&#34;}}" class="cmp-list">
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-8283c1be4d-item-192e1ca0d2&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:39Z&#34;,&#34;dc:title&#34;:&#34;Customer Care&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/services/customer-care&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/services/customer-care">
+        <span class="cmp-list__item-title">Customer Care</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-8283c1be4d-item-0eeeb4a15f&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:39Z&#34;,&#34;dc:title&#34;:&#34;Finance and Accounting&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/services/finance-and-accounting&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/services/finance-and-accounting">
+        <span class="cmp-list__item-title">Finance and Accounting</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-8283c1be4d-item-597c193dcd&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2025-01-03T16:47:17Z&#34;,&#34;dc:title&#34;:&#34;Human Resources Management&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/services/human-resources-management&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/services/human-resources-management">
+        <span class="cmp-list__item-title">Human Resources Management</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-8283c1be4d-item-a32c09374e&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:39Z&#34;,&#34;dc:title&#34;:&#34;Risk and Compliance&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/services/risk-and-compliance&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/services/risk-and-compliance">
+        <span class="cmp-list__item-title">Risk and Compliance</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-8283c1be4d-item-3fa4a0dc28&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:39Z&#34;,&#34;dc:title&#34;:&#34;Sales and Commercial&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/services/sales-and-commercial&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/services/sales-and-commercial">
+        <span class="cmp-list__item-title">Sales and Commercial</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-8283c1be4d-item-82da838675&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:39Z&#34;,&#34;dc:title&#34;:&#34;Sourcing and Procurement&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/services/sourcing-and-procurement&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/services/sourcing-and-procurement">
+        <span class="cmp-list__item-title">Sourcing and Procurement</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-8283c1be4d-item-a0e136fa31&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:39Z&#34;,&#34;dc:title&#34;:&#34;Sustainability&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/services/sustainability-services&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/services/sustainability-services">
+        <span class="cmp-list__item-title">Sustainability</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-8283c1be4d-item-d315f3da43&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:40Z&#34;,&#34;dc:title&#34;:&#34;Supply Chain Management&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/services/supply-chain-management&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/services/supply-chain-management">
+        <span class="cmp-list__item-title">Supply Chain Management</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-8283c1be4d-item-43fe108705&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:40Z&#34;,&#34;dc:title&#34;:&#34;Trust and Safety&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/services/trust-and-safety&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/services/trust-and-safety">
+        <span class="cmp-list__item-title">Trust and Safety</span>
+        
+    </a>
+    
+</li>
+    
+</ul>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="button cmp-button--header-cta-link cmp-button--header-cta-link-pos-left">
+  <a id="button-f9a3e2d613" class="cmp-button" data-cmp-clickable data-cmp-data-layer="{&#34;button-f9a3e2d613&#34;:{&#34;@type&#34;:&#34;genpact/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-21T13:43:05Z&#34;,&#34;dc:title&#34;:&#34;All Services&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/services&#34;}}" href="https://www.genpact.com/services">
+
+    <span class="cmp-button__icon cmp-button__icon--right-arrow" aria-hidden="true"></span>
+
+<span class="cmp-button__text">All Services</span>
+</a>
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+
+    
+</div>
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+<div class="cmp-accordion__item" data-cmp-hook-accordion="item" data-cmp-data-layer="{&#34;megamenu-item-5de71235b5&#34;:{&#34;@type&#34;:&#34;genpact/components/accordion/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T20:39:59Z&#34;,&#34;dc:title&#34;:&#34;Our Impact&#34;}}" id="megamenu-item-5de71235b5">
+        <h2 class="cmp-accordion__header">
+            <button id="megamenu-item-5de71235b5-button" class="cmp-accordion__button" type="button" aria-controls="megamenu-item-5de71235b5-panel" data-cmp-hook-accordion="button">
+                <span class="cmp-accordion__title">Our Impact</span>
+                <span class="cmp-accordion__icon"></span>
+            </button>
+        </h2>
+        <div data-cmp-hook-accordion="panel" id="megamenu-item-5de71235b5-panel" class="cmp-accordion__panel cmp-accordion__panel--hidden" role="region" aria-labelledby="megamenu-item-5de71235b5-button"><div class="container cmp-container--col-2-66-33 cmp-container--drop-shadow">
+
+    
+    
+    
+    <div id="container-f01eb52564" class="cmp-container">
+        
+        <div class="container cmp-container--col-2 cmp-container--menu-gradient">
+
+    
+    
+    
+    <div id="container-d4f6b21886" class="cmp-container">
+        
+        <div class="container cmp-container--menu-list">
+
+    
+    
+    
+    <div id="container-061dc782cc" class="cmp-container">
+        
+        <div class="text cmp-text--menu-title">
+<div data-cmp-data-layer="{&#34;text-e0534c7004&#34;:{&#34;@type&#34;:&#34;genpact/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T20:40:33Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Our Credentials&lt;/p>\r\n&#34;}}" id="text-e0534c7004" class="cmp-text">
+    <p>Our Credentials</p>
+
+</div>
+
+    
+
+</div>
+<div class="list cmp-list--menu">
+<ul id="list-f6404cd36c" data-cmp-data-layer="{&#34;list-f6404cd36c&#34;:{&#34;@type&#34;:&#34;genpact/components/list&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-18T18:40:20Z&#34;}}" class="cmp-list">
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-f6404cd36c-item-75e0a77d94&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:41Z&#34;,&#34;dc:title&#34;:&#34;Why Genpact&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/outcomes&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/outcomes">
+        <span class="cmp-list__item-title">Why Genpact</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-f6404cd36c-item-909035f1f7&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:42Z&#34;,&#34;dc:title&#34;:&#34;Analyst and Advisor Rankings&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/about-us/analyst-and-advisor-recognition&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/about-us/analyst-and-advisor-recognition">
+        <span class="cmp-list__item-title">Analyst and Advisor Rankings</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-f6404cd36c-item-9bf017700a&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:42Z&#34;,&#34;dc:title&#34;:&#34;Industry Awards&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/about-us/awards-and-accolades&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/about-us/awards-and-accolades">
+        <span class="cmp-list__item-title">Industry Awards</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-f6404cd36c-item-f7828b5551&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:42Z&#34;,&#34;dc:title&#34;:&#34;Client Stories&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/client-story&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/insight/client-story">
+        <span class="cmp-list__item-title">Client Stories</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-f6404cd36c-item-40ed7f235f&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:42Z&#34;,&#34;dc:title&#34;:&#34;Our Partners&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/partners&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/partners">
+        <span class="cmp-list__item-title">Our Partners</span>
+        
+    </a>
+    
+</li>
+    
+</ul>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container cmp-container--menu-list">
+
+    
+    
+    
+    <div id="container-c54cde2723" class="cmp-container">
+        
+        <div class="text cmp-text--menu-title">
+<div data-cmp-data-layer="{&#34;text-46f1196224&#34;:{&#34;@type&#34;:&#34;genpact/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T20:41:01Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Our Insights&lt;/p>\r\n&#34;}}" id="text-46f1196224" class="cmp-text">
+    <p>Our Insights</p>
+
+</div>
+
+    
+
+</div>
+<div class="list cmp-list--tags">
+<ul id="list-47be50c22c" data-cmp-data-layer="{&#34;list-47be50c22c&#34;:{&#34;@type&#34;:&#34;genpact/components/list&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-18T18:40:11Z&#34;}}" class="cmp-list">
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-47be50c22c-item-9eec689257&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:42Z&#34;,&#34;dc:title&#34;:&#34;AI and Data Analytics&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/ai-and-data-analytics&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/insight/ai-and-data-analytics">
+        <span class="cmp-list__item-title">AI and Data Analytics</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-47be50c22c-item-bec98c28b8&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:42Z&#34;,&#34;dc:title&#34;:&#34;Cloud Technologies&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/cloud-technologies&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/insight/cloud-technologies">
+        <span class="cmp-list__item-title">Cloud Technologies</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-47be50c22c-item-8206a5ea76&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:42Z&#34;,&#34;dc:title&#34;:&#34;Customer and Employee Experience&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/customer-and-employee-experience&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/insight/customer-and-employee-experience">
+        <span class="cmp-list__item-title">Customer and Employee Experience</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-47be50c22c-item-55126aeb53&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:42Z&#34;,&#34;dc:title&#34;:&#34;Environmental, Social, and Governance&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/environmental-social-and-governance&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/insight/environmental-social-and-governance">
+        <span class="cmp-list__item-title">Environmental, Social, and Governance</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-47be50c22c-item-0e69624efe&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:42Z&#34;,&#34;dc:title&#34;:&#34;Intelligent Automation&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/intelligent-automation&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/insight/intelligent-automation">
+        <span class="cmp-list__item-title">Intelligent Automation</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-47be50c22c-item-ddfdf1a9b2&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:42Z&#34;,&#34;dc:title&#34;:&#34; New Business Models&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/new-business-models&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/insight/new-business-models">
+        <span class="cmp-list__item-title"> New Business Models</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-47be50c22c-item-1acebbd290&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:42Z&#34;,&#34;dc:title&#34;:&#34;Operational Excellence&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/operational-excellence&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/insight/operational-excellence">
+        <span class="cmp-list__item-title">Operational Excellence</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-47be50c22c-item-5bca44db99&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:42Z&#34;,&#34;dc:title&#34;:&#34;Resilience&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/resilience&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/insight/resilience">
+        <span class="cmp-list__item-title">Resilience</span>
+        
+    </a>
+    
+</li>
+    
+</ul>
+
+    
+
+</div>
+<div class="button cmp-button--header-cta-link">
+  <a id="button-c471af3df1" class="cmp-button" data-cmp-clickable data-cmp-data-layer="{&#34;button-c471af3df1&#34;:{&#34;@type&#34;:&#34;genpact/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-24T18:29:14Z&#34;,&#34;dc:title&#34;:&#34;All Insights&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight&#34;}}" href="https://www.genpact.com/insight">
+
+    <span class="cmp-button__icon cmp-button__icon--right-arrow" aria-hidden="true"></span>
+
+<span class="cmp-button__text">All Insights</span>
+</a>
+</div>
+
+        
+    </div>
+
+</div>
+<div class="experiencefragment hide-navigation cmp-experiencefragment--nav-message">
+<div id="experiencefragment-f85aa46add" class="cmp-experiencefragment cmp-experiencefragment--nav-banner">
+
+
+    
+    <div id="container-fe985916cd" class="cmp-container">
+        
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="container cmp-container--message hide-mobile aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    
+    <div id="container-f04c43f6f1" class="cmp-container">
+        
+        <div class="text cmp-text--badge">
+<div data-cmp-data-layer="{&#34;text-7ca3024650&#34;:{&#34;@type&#34;:&#34;genpact/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-06T15:06:17Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>We&#39;re hiring!&lt;/p>\r\n&#34;}}" id="text-7ca3024650" class="cmp-text">
+    <p>We&#39;re hiring!</p>
+
+</div>
+
+    
+
+</div>
+<div class="text cmp-text--message">
+<div data-cmp-data-layer="{&#34;text-2d6ff56fc8&#34;:{&#34;@type&#34;:&#34;genpact/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-24T14:59:51Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Careers: We’re always looking for talented people. &lt;a href=\&#34;https://www.genpact.com/careers\&#34;>Join us.&lt;/a>&lt;/p>\r\n&#34;}}" id="text-2d6ff56fc8" class="cmp-text">
+    <p>Careers: We’re always looking for talented people. <a href="https://www.genpact.com/careers">Join us.</a></p>
+
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container cmp-container--featured-insights">
+
+    
+    
+    
+    <div id="container-a9f764ca6c" class="cmp-container">
+        
+        <div class="text cmp-text--menu-title">
+<div data-cmp-data-layer="{&#34;text-550f1b37a4&#34;:{&#34;@type&#34;:&#34;genpact/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T20:41:49Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>What&#39;s trending&lt;/p>\r\n&#34;}}" id="text-550f1b37a4" class="cmp-text">
+    <p>What&#39;s trending</p>
+
+</div>
+
+    
+
+</div>
+<div class="teaser cmp-teaser--card">
+<div id="teaser-8520395835" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-8520395835&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-27T22:35:45Z&#34;,&#34;dc:title&#34;:&#34;Report&#34;,&#34;dc:description&#34;:&#34;&lt;p>HFS ranks Genpact a market leader in generative enterprise services&lt;/p>\r\n&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/hfs-positions-genpact-as-a-market-leader-in-generative-enterprise-services&#34;}}">
+ <a class="cmp-teaser__link" data-cmp-clickable href="https://www.genpact.com/insight/hfs-positions-genpact-as-a-market-leader-in-generative-enterprise-services">
+     <div class="cmp-teaser__content">
+         
+    <p class="cmp-teaser__pretitle">Read more</p>
+
+         
+    <h2 class="cmp-teaser__title">
+        Report
+    </h2>
+
+         
+    <div class="cmp-teaser__description"><p>HFS ranks Genpact a market leader in generative enterprise services</p>
+</div>
+
+         
+    
+
+     </div>
+     
+    <div class="cmp-teaser__image">
+        
+            
+  <div data-cmp-is="image" data-cmp-src="/content/experience-fragments/genpact/us/en/site/header0/header/_jcr_content/root/container_1299338043/container/accordion_copy/item_1715802493566/container_1092942097/teaser_copy.coreimg{.width}.jpeg/1730315252930/insight-hero-hfs-positions-genpact-as-a-market-leader-in-generative-enterprise-services.jpeg" data-asset-id="1c62c34b-8063-4eb7-81d1-4b9b014552f0" data-cmp-filereference="/content/dam/genpact/images/insight-hero-hfs-positions-genpact-as-a-market-leader-in-generative-enterprise-services.jpg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="/content/experience-fragments/genpact/us/en/site/header0/header/_jcr_content/root/container_1299338043/container/accordion_copy/item_1715802493566/container_1092942097/teaser_copy.coreimg.jpeg/1730315252930/insight-hero-hfs-positions-genpact-as-a-market-leader-in-generative-enterprise-services.jpeg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="2560" height="1440" alt/>
+    
+    
+
+ 
+ 
+ 
+</div>
+
+    
+
+
+        
+    </div>
+
+ </a>
+</div>
+
+    
+</div>
+
+        
+    </div>
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+
+    
+</div>
+</div>
+<div class="button cmp-button--nav-item">
+  <a id="button-7ee334b8b8" class="cmp-button" data-cmp-clickable data-cmp-data-layer="{&#34;button-7ee334b8b8&#34;:{&#34;@type&#34;:&#34;genpact/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-21T14:43:17Z&#34;,&#34;dc:title&#34;:&#34;Careers&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/careers&#34;}}" href="https://www.genpact.com/careers">
+
+    
+
+<span class="cmp-button__text">Careers</span>
+</a>
+</div>
+<div class="experiencefragment hide-desktop cmp-experiencefragment--social-container-mobile">
+<div id="experiencefragment-235fced6a6" class="cmp-experiencefragment cmp-experiencefragment--social-media">
+
+
+    
+    <div id="container-60052934ae" class="cmp-container">
+        
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="container cmp-container--social-icons aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    
+    <div id="container-0e0b863b00" class="cmp-container">
+        
+        <div class="button">
+  <a id="button-b6b82e678e" class="cmp-button" data-cmp-clickable data-cmp-data-layer="{&#34;button-b6b82e678e&#34;:{&#34;@type&#34;:&#34;genpact/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-22T12:35:01Z&#34;,&#34;xdm:linkURL&#34;:&#34;https://x.com/genpact&#34;}}" href="https://x.com/genpact" target="_blank">
+
+    <span class="cmp-button__icon cmp-button__icon--x-twitter" aria-hidden="true"></span>
+
+
+</a>
+</div>
+<div class="button">
+  <a id="button-db613c694f" class="cmp-button" data-cmp-clickable data-cmp-data-layer="{&#34;button-db613c694f&#34;:{&#34;@type&#34;:&#34;genpact/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-22T12:35:23Z&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.facebook.com/ProudToBeGenpact/&#34;}}" href="https://www.facebook.com/ProudToBeGenpact/" target="_blank">
+
+    <span class="cmp-button__icon cmp-button__icon--facebook" aria-hidden="true"></span>
+
+
+</a>
+</div>
+<div class="button">
+  <a id="button-ca44bb931a" class="cmp-button" data-cmp-clickable data-cmp-data-layer="{&#34;button-ca44bb931a&#34;:{&#34;@type&#34;:&#34;genpact/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-22T12:36:15Z&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.linkedin.com/company/210064?trk=tyah&#34;}}" href="https://www.linkedin.com/company/210064?trk=tyah" target="_blank">
+
+    <span class="cmp-button__icon cmp-button__icon--linkedin" aria-hidden="true"></span>
+
+
+</a>
+</div>
+<div class="button">
+  <a id="button-cfccae3c8e" class="cmp-button" data-cmp-clickable data-cmp-data-layer="{&#34;button-cfccae3c8e&#34;:{&#34;@type&#34;:&#34;genpact/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-22T12:36:34Z&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.youtube.com/genpactltd&#34;}}" href="https://www.youtube.com/genpactltd" target="_blank">
+
+    <span class="cmp-button__icon cmp-button__icon--youtube" aria-hidden="true"></span>
+
+
+</a>
+</div>
+
+        
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="container cmp-container--nav-footer">
+
+    
+    
+    
+    <div id="container-a822da08f3" class="cmp-container">
+        
+        <div class="container cmp-form--language">
+<form method="POST" action="https://www.genpact.com/industries/banking-and-capital-markets" id="new_form" name="new_form" enctype="multipart/form-data" class="cmp-form aem-Grid aem-Grid--1 aem-Grid--default--1">
+    
+    
+        <input type="hidden" name=":formstart" value="/content/experience-fragments/genpact/us/en/site/header0/header/jcr:content/root/container_1299338043/container/container_507899510/container"/>
+        <input type="hidden" name="_charset_" value="utf-8"/>
+    
+    
+    <div class="options aem-GridColumn aem-GridColumn--default--1">
+
+    <fieldset class="cmp-form-options cmp-form-options--drop-down">
+        
+        
+            <label class="cmp-form-options__label" for="form-options-1008426593">Language</label>
+            <select class="cmp-form-options__field cmp-form-options__field--drop-down" name="language" id="form-options-1008426593">
+                <option value="english" selected>
+                    English
+                </option>
+            
+                <option value="german">
+                    Germany (Deutsch)
+                </option>
+            
+                <option value="japanese">
+                    Japan (日本語)
+                </option>
+            </select>
+        
+        
+    </fieldset>
+
+
+    
+
+</div>
+
+    
+</form>
+</div>
+<div class="button cmp-button--header-cta">
+  <a id="contact-us-header-mobile" class="cmp-button" data-cmp-clickable data-cmp-data-layer="{&#34;contact-us-header-mobile&#34;:{&#34;@type&#34;:&#34;genpact/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-31T20:12:49Z&#34;,&#34;dc:title&#34;:&#34;Contact us&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/contact-us&#34;}}" href="https://www.genpact.com/contact-us">
+
+    <span class="cmp-button__icon cmp-button__icon--right-arrow" aria-hidden="true"></span>
+
+<span class="cmp-button__text">Contact us</span>
+</a>
+</div>
+
+        
+    </div>
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container cmp-container--header-button">
+
+    
+    
+    
+    <div id="container-cc4096bb05" class="cmp-container">
+        
+        <div class="button cmp-button--header-button">
+  <button type="button" id="button-87b49b0a26" class="cmp-button" data-cmp-clickable data-cmp-data-layer="{&#34;button-87b49b0a26&#34;:{&#34;@type&#34;:&#34;genpact/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-28T20:33:12Z&#34;,&#34;dc:title&#34;:&#34;S&#34;}}" data-cmp-target-id="search-container">
+
+    <span class="cmp-button__icon cmp-button__icon--magnifying-glass" aria-hidden="true"></span>
+
+<span class="cmp-button__text">S</span>
+</button>
+</div>
+<div class="button cmp-button--header-button cmp-button--mobile-menu">
+  <button type="button" id="button-9a9b329291" class="cmp-button" data-cmp-clickable data-cmp-data-layer="{&#34;button-9a9b329291&#34;:{&#34;@type&#34;:&#34;genpact/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-28T20:41:33Z&#34;,&#34;dc:title&#34;:&#34;M&#34;}}" data-cmp-target-id="nav-container">
+
+    <span class="cmp-button__icon cmp-button__icon--hamburger" aria-hidden="true"></span>
+
+<span class="cmp-button__text">M</span>
+</button>
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container cmp-container--search hide">
+
+    
+    
+    
+    <div id="search-container" class="cmp-container">
+        
+        <div class="container cmp-form--search">
+<form method="GET" action="https://www.genpact.com/search" id="new_form" name="new_form" enctype="multipart/form-data" class="cmp-form aem-Grid aem-Grid--1 aem-Grid--default--1">
+    
+    
+    
+    <div class="button aem-GridColumn aem-GridColumn--default--1">
+<button type="SUBMIT" id="form-button-927499446" class="cmp-form-button">Submit</button>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--1">
+<div class="cmp-form-text" data-cmp-is="formText">
+    
+    
+    
+    <input class="cmp-form-text__text" data-cmp-hook-form-text="input" aria-label="Search" type="text" id="form-text-1403794555" placeholder="What can we help you find?" name="keywords" spellcheck="true" aria-describedby="form-text-1403794555-helpMessage"/>
+</div></div>
+
+    
+</form>
+</div>
+<div class="button cmp-button--icon">
+  <button type="button" id="button-ea78b0a1ad" class="cmp-button" data-cmp-clickable data-cmp-data-layer="{&#34;button-ea78b0a1ad&#34;:{&#34;@type&#34;:&#34;genpact/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-18T18:31:28Z&#34;}}" data-cmp-target-id="search-container">
+
+    <span class="cmp-button__icon cmp-button__icon--x-close" aria-hidden="true"></span>
+
+
+</button>
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container cmp-container--desktop-nav-cta">
+
+    
+    
+    
+    <div id="container-79fdf5e1d5" class="cmp-container">
+        
+        <div class="container cmp-form--language">
+<form method="POST" action="https://www.genpact.com/industries/banking-and-capital-markets" id="new_form" name="new_form" enctype="multipart/form-data" class="cmp-form aem-Grid aem-Grid--1 aem-Grid--default--1">
+    
+    
+        <input type="hidden" name=":formstart" value="/content/experience-fragments/genpact/us/en/site/header0/header/jcr:content/root/container_1299338043/container_507899510_/container"/>
+        <input type="hidden" name="_charset_" value="utf-8"/>
+    
+    
+    <div class="options aem-GridColumn aem-GridColumn--default--1">
+
+    <fieldset class="cmp-form-options cmp-form-options--drop-down">
+        
+        
+            <label class="cmp-form-options__label" for="language-options">Language</label>
+            <select class="cmp-form-options__field cmp-form-options__field--drop-down" name="language" id="language-options">
+                <option value="english" selected>
+                    EN
+                </option>
+            
+                <option value="german">
+                    DE
+                </option>
+            
+                <option value="japanese">
+                    JP
+                </option>
+            </select>
+        
+        
+    </fieldset>
+
+
+    
+
+</div>
+
+    
+</form>
+</div>
+<div class="button cmp-button--header-cta">
+  <a id="contact-us-header" class="cmp-button" data-cmp-clickable data-cmp-data-layer="{&#34;contact-us-header&#34;:{&#34;@type&#34;:&#34;genpact/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-31T20:12:24Z&#34;,&#34;dc:title&#34;:&#34;Contact us&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/contact-us&#34;}}" href="https://www.genpact.com/contact-us">
+
+    
+
+<span class="cmp-button__text">Contact us</span>
+</a>
+</div>
+
+        
+    </div>
+
+</div>
+
+        
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="container cmp-container--width-1440-v2">
+
+    
+    
+    
+    <div id="page-content" class="cmp-container">
+        
+        <div class="container mt-s mb-xl">
+
+    
+    
+    
+    <div id="container-381ca8e2b9" class="cmp-container">
+        
+        <div class="breadcrumb">
+<nav id="breadcrumb-22b61a82b6" class="cmp-breadcrumb" aria-label="Breadcrumb" data-cmp-data-layer="{&#34;breadcrumb-22b61a82b6&#34;:{&#34;@type&#34;:&#34;genpact/components/breadcrumb&#34;,&#34;repo:modifyDate&#34;:&#34;2024-10-29T16:32:27Z&#34;}}" role="navigation">
+    <ol class="cmp-breadcrumb__list" itemscope itemtype="http://schema.org/BreadcrumbList">
+        
+        <li class="cmp-breadcrumb__item" data-cmp-data-layer="{&#34;breadcrumb-22b61a82b6-item-15c8969b01&#34;:{&#34;@type&#34;:&#34;genpact/components/breadcrumb/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-28T20:00:55Z&#34;,&#34;dc:title&#34;:&#34;Home&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com&#34;}}" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            <a class="cmp-breadcrumb__item-link" itemprop="item" data-cmp-clickable href="https://www.genpact.com">
+                <span itemprop="name">Home</span>
+            </a>
+            <meta itemprop="position" content="1"/>
+        </li>
+    
+        
+        <li class="cmp-breadcrumb__item" data-cmp-data-layer="{&#34;breadcrumb-22b61a82b6-item-717739adb1&#34;:{&#34;@type&#34;:&#34;genpact/components/breadcrumb/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:39Z&#34;,&#34;dc:title&#34;:&#34;Industries&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/industries&#34;}}" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            <a class="cmp-breadcrumb__item-link" itemprop="item" data-cmp-clickable href="https://www.genpact.com/industries">
+                <span itemprop="name">Industries</span>
+            </a>
+            <meta itemprop="position" content="2"/>
+        </li>
+    
+        
+        <li class="cmp-breadcrumb__item cmp-breadcrumb__item--active" aria-current="page" data-cmp-data-layer="{&#34;breadcrumb-22b61a82b6-item-46abf88e00&#34;:{&#34;@type&#34;:&#34;genpact/components/breadcrumb/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-06T19:02:13Z&#34;,&#34;dc:title&#34;:&#34;Banking and Capital Markets&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/industries/banking-and-capital-markets&#34;}}" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            
+                <span itemprop="name">Banking and Capital Markets</span>
+            
+            <meta itemprop="position" content="3"/>
+        </li>
+    </ol>
+</nav>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container cmp-container--background-gradient mb-section">
+
+    
+    
+    
+    <div id="container-5caed81cdc" class="cmp-container">
+        
+        <div class="hero teaser">
+<div class="cmp-hero cmp-teaser cmp-teaser--asset">
+    <div class="cmp-teaser__content">
+        <div class="cmp-teaser__text-container">
+            
+    
+
+            
+    <h2 class="cmp-teaser__title">
+        Banking and capital markets
+    </h2>
+
+            
+    <div class="cmp-teaser__description"><p>Win in the digital economy with technology and analytics for exceptional customer service</p></div>
+
+        </div>
+        
+    
+
+    </div>
+    
+    
+    <div class="video dynamicmedia parbase cmp-teaser__asset"><!-- /*
+  Copyright 2016 Adobe Systems Incorporated
+  All Rights Reserved.
+
+  NOTICE:  All information contained herein is, and remains
+  the property of Adobe Systems Incorporated and its suppliers,
+  if any.  The intellectual and technical concepts contained
+  herein are proprietary to Adobe Systems Incorporated and its
+  suppliers and are protected by trade secret or copyright law.
+  Dissemination of this information or reproduction of this material
+  is strictly forbidden unless prior written permission is obtained
+  from Adobe Systems Incorporated.
+*/ -->
+
+    
+    
+<link rel="stylesheet" href="/libs/dam/components/scene7/dynamicmedia/clientlibs/dynamicmedia.lc-a97e0418f0d0d6fe2eea57c7dc5e8804-lc.min.css" type="text/css">
+<script src="/libs/dam/components/scene7/common/clientlibs/viewer.lc-78cc99cb08222001ca2bdf214cc2727b-lc.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/jquery.lc-f9e8e8c279baf6a1a278042afe4f395a-lc.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/utils.lc-899004cc02c33efc1f6694b1aee587fd-lc.min.js"></script>
+<script src="/libs/dam/components/scene7/dynamicmedia/clientlibs/dynamicmedia.lc-5a9b56bbce7753fe42095b2df91dd9d7-lc.min.js"></script>
+<script src="/libs/dam/components/scene7/common/clientlibs/i18n.lc-b58a29e31169aff220dc1e89391c5572-lc.min.js"></script>
+
+
+
+    <!-- /* Viewer container when there is an asset */ -->
+	<div class="cq-dd-image ">
+        <div id="dynamicmedia_132664016" data-current-page="/content/genpact/us/en/industries/banking-and-capital-markets" data-page-locale="en" data-asset-path="genpactindia/Banking and capital markets industry-AVS" data-asset-name="Banking and capital markets industry.mp4" data-asset-type="videoavs" data-viewer-type="VideoViewer" data-viewer-path="https://s7ap1.scene7.com/s7viewers/" data-imageserver="https://s7ap1.scene7.com/is/image/" data-videoserver="https://s7ap1.scene7.com/is/content/" data-contenturl="https://s7ap1.scene7.com/is/content/" data-config="/genpactindia/Video|VIDEO|false" data-wcmdisabled data-dms7 data-enablehd="never" data-linktarget="_self" class="s7dm-dynamic-media video">
+        </div>
+    </div>
+    <!-- /* Placeholder when there is no content */ -->
+	
+</div>
+
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container cmp-container--background-gradient cmp-container--background-gradient-left mb-section">
+
+    
+    
+    
+    <div id="container-5f8b33db63" class="cmp-container">
+        
+        <div class="container mb-m">
+
+    
+    
+    
+    <div id="container-4bf592c1b5" class="cmp-container">
+        
+        <div class="title cmp-title--v2 cmp-title--color-brand-secondary cmp-title--align-center mb-xxs">
+<div data-cmp-data-layer="{&#34;title-29bc7b7605&#34;:{&#34;@type&#34;:&#34;genpact/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2024-10-28T22:00:08Z&#34;,&#34;dc:title&#34;:&#34;Our industry focus&#34;}}" id="title-29bc7b7605" class="cmp-title">
+    <h2 class="cmp-title__text">Our industry focus</h2>
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="contentfragmentlist">
+
+    <section class="cmp-contentfragmentlist">
+        <div class="cmp-container cmp-container--view-more" data-columns="2" data-rows="3">
+            <div class="cmp-container--grid cmp-container--grid-2 cmp-container--grid-2-3 cmp-container--view-more__content">
+                
+                    
+    
+        <div class="cmp-contentfragment cmp-contentfragment--ssi">
+            <a class="cmp-contentfragment__teaser" href="https://www.genpact.com/industries/banking-and-capital-markets/capital-markets">
+                <div class="cmp-contentfragment__content">
+                    <div class="cmp-contentfragment__name">
+                        <h3>Capital markets</h3>
+                    </div>
+                    <div class="cmp-contentfragment__description"><p>Strengthen growth, compliance, and risk with data and advanced technology</p>
+</div>
+                </div>
+                <div class="cmp-contentfragment__image"></div>
+            </a>
+        </div>
+    
+
+                
+                    
+    
+        <div class="cmp-contentfragment cmp-contentfragment--ssi">
+            <a class="cmp-contentfragment__teaser" href="https://www.genpact.com/industries/banking-and-capital-markets/commercial-banking">
+                <div class="cmp-contentfragment__content">
+                    <div class="cmp-contentfragment__name">
+                        <h3>Commercial banking</h3>
+                    </div>
+                    <div class="cmp-contentfragment__description"><p>Enhance insights, accelerate decisions, and improve experiences with an AI-first approach</p>
+</div>
+                </div>
+                <div class="cmp-contentfragment__image"></div>
+            </a>
+        </div>
+    
+
+                
+                    
+    
+        <div class="cmp-contentfragment cmp-contentfragment--ssi">
+            <a class="cmp-contentfragment__teaser" href="https://www.genpact.com/industries/banking-and-capital-markets/consumer-banking">
+                <div class="cmp-contentfragment__content">
+                    <div class="cmp-contentfragment__name">
+                        <h3>Consumer banking</h3>
+                    </div>
+                    <div class="cmp-contentfragment__description"><p>When customer centricity is everything, unlock deep insight with AI and advanced analytics</p>
+</div>
+                </div>
+                <div class="cmp-contentfragment__image"></div>
+            </a>
+        </div>
+    
+
+                
+                    
+    
+        <div class="cmp-contentfragment cmp-contentfragment--ssi">
+            <a class="cmp-contentfragment__teaser" href="https://www.genpact.com/industries/banking-and-capital-markets/fintech">
+                <div class="cmp-contentfragment__content">
+                    <div class="cmp-contentfragment__name">
+                        <h3>Fintech</h3>
+                    </div>
+                    <div class="cmp-contentfragment__description"><p>Adopt a scalable operating model, sharpen compliance, and delight customers</p>
+</div>
+                </div>
+                <div class="cmp-contentfragment__image"></div>
+            </a>
+        </div>
+    
+
+                
+                    
+    
+        <div class="cmp-contentfragment cmp-contentfragment--ssi">
+            <a class="cmp-contentfragment__teaser" href="https://www.genpact.com/industries/banking-and-capital-markets/payments">
+                <div class="cmp-contentfragment__content">
+                    <div class="cmp-contentfragment__name">
+                        <h3>Payments</h3>
+                    </div>
+                    <div class="cmp-contentfragment__description"><p>Streamline payments with friction-free solutions that ease the customer experience</p>
+</div>
+                </div>
+                <div class="cmp-contentfragment__image"></div>
+            </a>
+        </div>
+    
+
+                
+                    
+    
+        <div class="cmp-contentfragment cmp-contentfragment--ssi">
+            <a class="cmp-contentfragment__teaser" href="https://www.genpact.com/industries/private-equity">
+                <div class="cmp-contentfragment__content">
+                    <div class="cmp-contentfragment__name">
+                        <h3>Private equity</h3>
+                    </div>
+                    <div class="cmp-contentfragment__description"><p>Unlock enterprise value with data-led insights to turn potential into business performance</p>
+</div>
+                </div>
+                <div class="cmp-contentfragment__image"></div>
+            </a>
+        </div>
+    
+
+                
+            </div>
+            <button class="cmp-container--view-more__button">
+                <span class="cmp-container--view-more__button-row-count">
+                    0/0
+                </span>
+                <span class="cmp-container--view-more__button-text cmp-container--view-more__button-text-more">
+                    View more
+                </span>
+                <span class="cmp-container--view-more__button-text cmp-container--view-more__button-text-less">
+                    View Less
+                </span>
+                <span class="cmp-container--view-more__button-icon"></span>
+            </button>
+        </div>
+    </section>
+
+
+
+    
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container cmp-container--background-gradient mb-section">
+
+    
+    
+    
+    <div id="container-4b80342b28" class="cmp-container">
+        
+        <div class="container mb-m">
+
+    
+    
+    
+    <div id="container-87a05b91f6" class="cmp-container">
+        
+        <div class="title cmp-title--v2 cmp-title--color-brand-secondary cmp-title--align-center mb-xxs">
+<div data-cmp-data-layer="{&#34;title-2b13b228fb&#34;:{&#34;@type&#34;:&#34;genpact/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2024-10-28T22:13:58Z&#34;,&#34;dc:title&#34;:&#34;How analysts rank us&#34;}}" id="title-2b13b228fb" class="cmp-title">
+    <h2 class="cmp-title__text">How analysts rank us</h2>
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="gridcontainer container">
+
+    
+    
+     
+     <div id="gridcontainer-c64d98cd1b" class="cmp-container cmp-container--grid cmp-container--grid-4">
+         
+         <div class="teaser cmp-teaser--award">
+<div id="teaser-2921444cb8" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-2921444cb8&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-11-19T22:21:21Z&#34;,&#34;dc:description&#34;:&#34;&lt;p>&lt;b>Leader&lt;/b>&lt;/p>\r\n&lt;p>Banking Operations, 2023&lt;/p>\r\n&#34;}}">
+ 
+     <div class="cmp-teaser__content">
+         
+    
+
+         
+    
+
+         
+    <div class="cmp-teaser__description"><p><b>Leader</b></p>
+<p>Banking Operations, 2023</p>
+</div>
+
+         
+    <div class="cmp-teaser__action-container">
+        
+    <a class="cmp-teaser__action-link" id="teaser-2921444cb8-cta-0d9c492c3a" data-cmp-data-layer="{&#34;teaser-2921444cb8-cta-0d9c492c3a&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser/cta&#34;,&#34;dc:title&#34;:&#34;Read more&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/everest-group-names-genpact-a-leader-in-banking-operations&#34;}}" data-cmp-clickable href="https://www.genpact.com/insight/everest-group-names-genpact-a-leader-in-banking-operations">Read more</a>
+
+    </div>
+
+     </div>
+     
+    <div class="cmp-teaser__image">
+        
+            
+  <div data-cmp-is="image" data-cmp-dmimage data-cmp-src="https://s7ap1.scene7.com/is/content/genpactindia/Everest%20group%20logo%20white?ts=1733521110294&amp;dpr=off" data-asset-id="cdef739c-e879-4142-970c-044775649e40" data-cmp-filereference="/content/dam/genpact/logos/svg/Everest group logo white.svg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="https://s7ap1.scene7.com/is/content/genpactindia/Everest%20group%20logo%20white?ts=1733521110294&dpr=off" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt="Everest Group Logo"/>
+    
+    
+
+ 
+ 
+ 
+</div>
+
+    
+
+
+        
+    </div>
+
+ 
+</div>
+
+    
+</div>
+<div class="teaser cmp-teaser--award">
+<div id="teaser-792dc9e481" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-792dc9e481&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-11-20T21:47:58Z&#34;,&#34;dc:description&#34;:&#34;&lt;p>&lt;b>Enterprise Innovator&lt;/b>&lt;/p>\r\n&lt;p>Cards and Payments Services, 2023&lt;/p>\r\n&#34;}}">
+ 
+     <div class="cmp-teaser__content">
+         
+    
+
+         
+    
+
+         
+    <div class="cmp-teaser__description"><p><b>Enterprise Innovator</b></p>
+<p>Cards and Payments Services, 2023</p>
+</div>
+
+         
+    <div class="cmp-teaser__action-container">
+        
+    <a class="cmp-teaser__action-link" id="teaser-792dc9e481-cta-74cd33e3a3" data-cmp-data-layer="{&#34;teaser-792dc9e481-cta-74cd33e3a3&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser/cta&#34;,&#34;dc:title&#34;:&#34;Read more&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/hfs-names-genpact-an-enterprise-innovator-in-cards-and-payments-services&#34;}}" data-cmp-clickable href="https://www.genpact.com/insight/hfs-names-genpact-an-enterprise-innovator-in-cards-and-payments-services">Read more</a>
+
+    </div>
+
+     </div>
+     
+    <div class="cmp-teaser__image">
+        
+            
+  <div data-cmp-is="image" data-cmp-dmimage data-cmp-src="https://s7ap1.scene7.com/is/content/genpactindia/HFS%20white?ts=1733521110743&amp;dpr=off" data-asset-id="409f4310-9692-4277-b24b-e9ded84f753d" data-cmp-filereference="/content/dam/genpact/logos/svg/HFS white.svg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="https://s7ap1.scene7.com/is/content/genpactindia/HFS%20white?ts=1733521110743&dpr=off" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt="HFS Logo"/>
+    
+    
+
+ 
+ 
+ 
+</div>
+
+    
+
+
+        
+    </div>
+
+ 
+</div>
+
+    
+</div>
+<div class="teaser cmp-teaser--award">
+<div id="teaser-c7a78c927a" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-c7a78c927a&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-02T23:20:25Z&#34;,&#34;dc:description&#34;:&#34;&lt;p>&lt;b>Leader&lt;/b>&lt;/p>\r\n&lt;p>ISG Provider Lens™ Report for Customer Experience Services, 2023&lt;/p>\r\n&#34;}}">
+ 
+     <div class="cmp-teaser__content">
+         
+    
+
+         
+    
+
+         
+    <div class="cmp-teaser__description"><p><b>Leader</b></p>
+<p>ISG Provider Lens™ Report for Customer Experience Services, 2023</p>
+</div>
+
+         
+    <div class="cmp-teaser__action-container">
+        
+    <a class="cmp-teaser__action-link" id="teaser-c7a78c927a-cta-abe68cf7fc" data-cmp-data-layer="{&#34;teaser-c7a78c927a-cta-abe68cf7fc&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser/cta&#34;,&#34;dc:title&#34;:&#34;Read more&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/genpact-a-leader-in-the-isg-provider-lens-report-for-customer-experience-services&#34;}}" data-cmp-clickable href="https://www.genpact.com/insight/genpact-a-leader-in-the-isg-provider-lens-report-for-customer-experience-services">Read more</a>
+
+    </div>
+
+     </div>
+     
+    <div class="cmp-teaser__image">
+        
+            
+  <div data-cmp-is="image" data-cmp-dmimage data-cmp-src="https://s7ap1.scene7.com/is/content/genpactindia/ISG_logo_2?ts=1733521110716&amp;dpr=off" data-asset-id="c5a5c9ae-3938-40e0-ae44-10c3b16560f4" data-cmp-filereference="/content/dam/genpact/logos/svg/ISG_logo_2.svg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="https://s7ap1.scene7.com/is/content/genpactindia/ISG_logo_2?ts=1733521110716&dpr=off" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt="ISG Logo"/>
+    
+    
+
+ 
+ 
+ 
+</div>
+
+    
+
+
+        
+    </div>
+
+ 
+</div>
+
+    
+</div>
+<div class="teaser cmp-teaser--award">
+<div id="teaser-ba6df41e0a" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-ba6df41e0a&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-11-20T21:48:55Z&#34;,&#34;dc:description&#34;:&#34;&lt;p>&lt;b>Leader and Star Performer&lt;/b>&lt;/p>\r\n&lt;p>in Financial Crime and Compliance&lt;/p>\r\n&#34;}}">
+ 
+     <div class="cmp-teaser__content">
+         
+    
+
+         
+    
+
+         
+    <div class="cmp-teaser__description"><p><b>Leader and Star Performer</b></p>
+<p>in Financial Crime and Compliance</p>
+</div>
+
+         
+    <div class="cmp-teaser__action-container">
+        
+    <a class="cmp-teaser__action-link" id="teaser-ba6df41e0a-cta-cd120b1d3a" data-cmp-data-layer="{&#34;teaser-ba6df41e0a-cta-cd120b1d3a&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser/cta&#34;,&#34;dc:title&#34;:&#34;Read more&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/everest-group-names-genpact-a-leader-in-financial-crime-and-compliance&#34;}}" data-cmp-clickable href="https://www.genpact.com/insight/everest-group-names-genpact-a-leader-in-financial-crime-and-compliance">Read more</a>
+
+    </div>
+
+     </div>
+     
+    <div class="cmp-teaser__image">
+        
+            
+  <div data-cmp-is="image" data-cmp-dmimage data-cmp-src="https://s7ap1.scene7.com/is/content/genpactindia/Everest%20group%20logo%20white?ts=1733521110294&amp;dpr=off" data-asset-id="cdef739c-e879-4142-970c-044775649e40" data-cmp-filereference="/content/dam/genpact/logos/svg/Everest group logo white.svg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="https://s7ap1.scene7.com/is/content/genpactindia/Everest%20group%20logo%20white?ts=1733521110294&dpr=off" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt="Everest Logo"/>
+    
+    
+
+ 
+ 
+ 
+</div>
+
+    
+
+
+        
+    </div>
+
+ 
+</div>
+
+    
+</div>
+
+         
+     </div>
+ 
+</div>
+<div class="button cmp-button--base-v2 cmp-button--primary-v2 cmp-button--align-center-v2 mt-xl">
+  <a id="button-c4a3f6736a" class="cmp-button" data-cmp-clickable data-cmp-data-layer="{&#34;button-c4a3f6736a&#34;:{&#34;@type&#34;:&#34;genpact/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2024-10-28T22:21:06Z&#34;,&#34;dc:title&#34;:&#34;VIEW ALL RECOGNITION&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/about-us/analyst-and-advisor-recognition&#34;}}" href="https://www.genpact.com/about-us/analyst-and-advisor-recognition">
+
+    
+
+<span class="cmp-button__text">VIEW ALL RECOGNITION</span>
+</a>
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container cmp-container--background-gradient cmp-container--background-gradient-right mb-section">
+
+    
+    <div id="container-2fcbd0c5a2" class="cmp-container">
+        
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 aem-Grid--phone--4 ">
+    
+    <div class="teaser cmp-teaser--50-50 aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--phone--4">
+<div id="teaser-f8b37bc0c4" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-f8b37bc0c4&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-11-30T18:59:20Z&#34;,&#34;dc:title&#34;:&#34;Banking on change: Westpac and Genpact on the role of generative AI in banking&#34;,&#34;dc:description&#34;:&#34;&lt;p>Westpac&#39;s Andrew Macey, COO of HR services, shares his insights on the opportunities and challenges for generative AI in banking.&lt;/p>\r\n&#34;}}">
+ 
+     <div class="cmp-teaser__content">
+         
+    <p class="cmp-teaser__pretitle">Featured thought leadership</p>
+
+         
+    <h2 class="cmp-teaser__title">
+        Banking on change: Westpac and Genpact on the role of generative AI in banking
+    </h2>
+
+         
+    <div class="cmp-teaser__description"><p>Westpac&#39;s Andrew Macey, COO of HR services, shares his insights on the opportunities and challenges for generative AI in banking.</p>
+</div>
+
+         
+    <div class="cmp-teaser__action-container">
+        
+    <a class="cmp-teaser__action-link" id="teaser-f8b37bc0c4-cta-b1de240a2c" data-cmp-data-layer="{&#34;teaser-f8b37bc0c4-cta-b1de240a2c&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser/cta&#34;,&#34;dc:title&#34;:&#34;LISTEN TO THE PODCAST&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/banking-on-change-westpac-and-genpact-on-the-role-of-generative-ai-in-banking&#34;}}" data-cmp-clickable href="https://www.genpact.com/insight/banking-on-change-westpac-and-genpact-on-the-role-of-generative-ai-in-banking">LISTEN TO THE PODCAST</a>
+
+    
+        
+    <a class="cmp-teaser__action-link" id="teaser-f8b37bc0c4-cta-8e545bc3f0" data-cmp-data-layer="{&#34;teaser-f8b37bc0c4-cta-8e545bc3f0&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser/cta&#34;,&#34;dc:title&#34;:&#34;VIEW ALL INSIGHTS&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/banking-and-capital-markets&#34;}}" data-cmp-clickable href="https://www.genpact.com/insight/banking-and-capital-markets">VIEW ALL INSIGHTS</a>
+
+    </div>
+
+     </div>
+     
+    <div class="cmp-teaser__image">
+        
+            
+  <div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600" data-cmp-dmimage data-cmp-smartcroprendition="Teaser5050" data-cmp-src="https://s7ap1.scene7.com/is/image/genpactindia/banking-on-change-westpac-and-genpact-on-the-role-of-generative-ai-in-banking%3ATeaser5050?ts=1733522467395&amp;dpr=off" data-asset-id="eb98de47-fc56-4152-b5a9-9c68764ff9f7" data-cmp-filereference="/content/dam/genpact/t4-and-t/images/banking-on-change-westpac-and-genpact-on-the-role-of-generative-ai-in-banking.jpeg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="https://s7ap1.scene7.com/is/image/genpactindia/banking-on-change-westpac-and-genpact-on-the-role-of-generative-ai-in-banking%3ATeaser5050?ts=1733522467395&dpr=off" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="6970" height="4649" alt="Laptop, phone and business woman on coding, software development and programming script for cybersecurity. Night, mobile research and multimedia programmer or IT person on computer with data analysis." title="Laptop, phone and business woman on coding, software development and programming script for cybersecurity. Night, mobile research and multimedia programmer or IT person on computer with data analysis"/>
+    
+    <div class="cmp-image__overlay">
+        <div class="cmp-image__overlay-tags">
+            <div class="cmp-image__overlay-tag">AI</div>
+        </div>
+        
+    </div>
+
+ 
+ 
+ <meta itemprop="caption" content="Laptop, phone and business woman on coding, software development and programming script for cybersecurity. Night, mobile research and multimedia programmer or IT person on computer with data analysis"/>
+</div>
+
+    
+
+
+        
+    </div>
+
+ 
+</div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="container mb-m">
+
+    
+    
+    
+    <div id="container-44582f3486" class="cmp-container">
+        
+        <div class="title cmp-title--v2 cmp-title--color-brand-secondary cmp-title--align-center">
+<div data-cmp-data-layer="{&#34;title-54fd67853c&#34;:{&#34;@type&#34;:&#34;genpact/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2024-10-22T22:26:31Z&#34;,&#34;dc:title&#34;:&#34;Featured services&#34;}}" id="title-54fd67853c" class="cmp-title">
+    <h2 class="cmp-title__text">Featured services</h2>
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container cmp-container--background-gradient cmp-container--background-gradient-left mb-m">
+
+    
+    <div id="container-900ce7ef53" class="cmp-container">
+        
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 aem-Grid--phone--4 ">
+    
+    <div class="teaser cmp-teaser--50-50 aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--phone--4">
+<div id="teaser-2380cb98bf" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-2380cb98bf&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-11-20T21:49:30Z&#34;,&#34;dc:title&#34;:&#34;Risk and Compliance Services&#34;,&#34;dc:description&#34;:&#34;&lt;p>Elevate risk management to meet ever-evolving regulatory compliance and business needs&lt;/p>\r\n&#34;}}">
+ 
+     <div class="cmp-teaser__content">
+         
+    
+
+         
+    <h2 class="cmp-teaser__title">
+        Risk and Compliance Services
+    </h2>
+
+         
+    <div class="cmp-teaser__description"><p>Elevate risk management to meet ever-evolving regulatory compliance and business needs</p>
+</div>
+
+         
+    <div class="cmp-teaser__action-container">
+        
+    <a class="cmp-teaser__action-link" id="teaser-2380cb98bf-cta-5136edc622" data-cmp-data-layer="{&#34;teaser-2380cb98bf-cta-5136edc622&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser/cta&#34;,&#34;dc:title&#34;:&#34;EXPLORE THIS SERVICE&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/services/risk-and-compliance&#34;}}" data-cmp-clickable href="https://www.genpact.com/services/risk-and-compliance">EXPLORE THIS SERVICE</a>
+
+    
+        
+    <a class="cmp-teaser__action-link" id="teaser-2380cb98bf-cta-3016558e2b" data-cmp-data-layer="{&#34;teaser-2380cb98bf-cta-3016558e2b&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser/cta&#34;,&#34;dc:title&#34;:&#34;VIEW ALL SERVICES&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/services&#34;}}" data-cmp-clickable href="https://www.genpact.com/services">VIEW ALL SERVICES</a>
+
+    </div>
+
+     </div>
+     
+    <div class="cmp-teaser__image">
+        
+            
+  <div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600" data-cmp-dmimage data-cmp-smartcroprendition="Teaser5050" data-cmp-src="https://s7ap1.scene7.com/is/image/genpactindia/risk-and-compliance%3ATeaser5050?ts=1733522450008&amp;dpr=off" data-asset-id="be3e34e1-ca85-426c-a499-852062032aae" data-cmp-filereference="/content/dam/genpact/t4-and-t/images/risk-and-compliance.jpg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="https://s7ap1.scene7.com/is/image/genpactindia/risk-and-compliance%3ATeaser5050?ts=1733522450008&dpr=off" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="6377" height="4256" alt="Cropped shot of a handsome young businessman working in his office" title="1136807661"/>
+    
+    
+
+ 
+ 
+ <meta itemprop="caption" content="1136807661"/>
+</div>
+
+    
+
+
+        
+    </div>
+
+ 
+</div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="container cmp-container--background-gradient mb-section">
+
+    
+    <div id="container-4e5919f3dd" class="cmp-container">
+        
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 aem-Grid--phone--4 ">
+    
+    <div class="teaser cmp-teaser--50-50 cmp-teaser--50-50-reverse aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--phone--4">
+<div id="Button-ID" class="cmp-teaser" data-cmp-data-layer="{&#34;Button-ID&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-06T21:22:23Z&#34;,&#34;dc:title&#34;:&#34;Customer Care Services&#34;,&#34;dc:description&#34;:&#34;&lt;p>Utilize AI-powered care for happy, loyal customers&lt;/p>\r\n&#34;}}">
+ 
+     <div class="cmp-teaser__content">
+         
+    
+
+         
+    <h2 class="cmp-teaser__title">
+        Customer Care Services
+    </h2>
+
+         
+    <div class="cmp-teaser__description"><p>Utilize AI-powered care for happy, loyal customers</p>
+</div>
+
+         
+    <div class="cmp-teaser__action-container">
+        
+    <a class="cmp-teaser__action-link" id="Button-ID-cta-4103650965" data-cmp-data-layer="{&#34;Button-ID-cta-4103650965&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser/cta&#34;,&#34;dc:title&#34;:&#34;Explore this service&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/services/customer-care&#34;}}" data-cmp-clickable href="https://www.genpact.com/services/customer-care">Explore this service</a>
+
+    
+        
+    <a class="cmp-teaser__action-link" id="Button-ID-cta-277da066d3" data-cmp-data-layer="{&#34;Button-ID-cta-277da066d3&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser/cta&#34;,&#34;dc:title&#34;:&#34;View all services&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/services&#34;}}" data-cmp-clickable href="https://www.genpact.com/services">View all services</a>
+
+    </div>
+
+     </div>
+     
+    <div class="cmp-teaser__image">
+        
+            
+  <div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600" data-cmp-dmimage data-cmp-smartcroprendition="Teaser5050" data-cmp-src="https://s7ap1.scene7.com/is/image/genpactindia/customer-care%3ATeaser5050?ts=1733522467706&amp;dpr=off" data-asset-id="6d4cbe06-9532-4e5f-8ae4-5326e8d9d06c" data-cmp-filereference="/content/dam/genpact/t4-and-t/images/customer-care.jpg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="https://s7ap1.scene7.com/is/image/genpactindia/customer-care%3ATeaser5050?ts=1733522467706&dpr=off" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="8192" height="4320" alt="The issue should be resolves now" title="1317852480"/>
+    
+    
+
+ 
+ 
+ <meta itemprop="caption" content="1317852480"/>
+</div>
+
+    
+
+
+        
+    </div>
+
+ 
+</div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="container mb-section">
+
+    
+    <div id="container-9e2f9f0564" class="cmp-container">
+        
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--phone--4 ">
+    
+    <div class="container cmp-container--background-gradient cmp-container--background-gradient-right cmp-container--vertical-bottom mb-m aem-GridColumn--tablet--12 aem-GridColumn--offset--tablet--0 aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--phone--4 aem-GridColumn--offset--phone--0 aem-GridColumn--offset--default--0">
+
+    
+    <div id="container-c8f5870703" class="cmp-container">
+        
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--phone--4 ">
+    
+    <div class="hero teaser aem-GridColumn--tablet--12 aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--phone--4">
+<div class="cmp-hero cmp-teaser">
+    <div class="cmp-teaser__content">
+        <div class="cmp-teaser__text-container">
+            
+    
+
+            
+    <h2 class="cmp-teaser__title">
+        Real value for our clients
+    </h2>
+
+            
+    <div class="cmp-teaser__description"><p>More than 200 leaders in the banking and capital markets industry have chosen us to shape their future in finance.</p>
+</div>
+
+        </div>
+        
+    <div class="cmp-teaser__action-container">
+        
+    <a class="cmp-teaser__action-link" id="teaser-430c66ea15-cta-a367eb3f33" data-cmp-data-layer="{&#34;teaser-430c66ea15-cta-a367eb3f33&#34;:{&#34;@type&#34;:&#34;genpact/components/hero/cta&#34;,&#34;dc:title&#34;:&#34;View all case studies&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/client-story&#34;}}" data-cmp-clickable href="https://www.genpact.com/insight/client-story">View all case studies</a>
+
+    </div>
+
+    </div>
+    
+    
+    
+</div>
+
+    
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="container cmp-container--background-gradient cmp-container--vertical-bottom aem-GridColumn--tablet--12 aem-GridColumn--offset--tablet--0 aem-GridColumn--phone--hide aem-GridColumn--default--none aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--phone--4 aem-GridColumn--offset--phone--0 aem-GridColumn--offset--default--0">
+
+    
+    <div id="container-f10e28ae4e" class="cmp-container">
+        
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--phone--4 ">
+    
+    <div class="teaser cmp-teaser--overlay-card aem-GridColumn--default--none aem-GridColumn--tablet--4 aem-GridColumn aem-GridColumn--phone--4 aem-GridColumn--offset--default--0 aem-GridColumn--default--4">
+<div id="teaser-f107b1db13" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-f107b1db13&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-02T23:52:40Z&#34;,&#34;dc:description&#34;:&#34;&lt;p>How Apex Fintech Solutions takes fighting financial crime to new heights.&amp;nbsp;&lt;u>&lt;b>Read more&lt;/b>&lt;/u>&lt;/p>\r\n&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/how-apex-fintech-solutions-takes-fighting-financial-crime-to-new-heights&#34;}}">
+ <a class="cmp-teaser__link" data-cmp-clickable href="https://www.genpact.com/insight/how-apex-fintech-solutions-takes-fighting-financial-crime-to-new-heights">
+     <div class="cmp-teaser__content">
+         
+    <p class="cmp-teaser__pretitle">Risk</p>
+
+         
+    
+
+         
+    <div class="cmp-teaser__description"><p>How Apex Fintech Solutions takes fighting financial crime to new heights. <u><b>Read more</b></u></p>
+</div>
+
+         
+    
+
+     </div>
+     
+    <div class="cmp-teaser__image">
+        
+            
+  <div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600" data-cmp-dmimage data-cmp-smartcroprendition="TeaserCard" data-cmp-src="https://s7ap1.scene7.com/is/image/genpactindia/how-apex-fintech-solutions-takes-fighting-financial-crime-to-new-heights%3ATeaserCard?ts=1733522450376&amp;dpr=off" data-asset-id="7a2d6c5e-c9e1-4ab3-b289-de82ffa5f73a" data-cmp-filereference="/content/dam/genpact/t4-and-t/images/how-apex-fintech-solutions-takes-fighting-financial-crime-to-new-heights.jpg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="https://s7ap1.scene7.com/is/image/genpactindia/how-apex-fintech-solutions-takes-fighting-financial-crime-to-new-heights%3ATeaserCard?ts=1733522450376&dpr=off" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="6016" height="4016" alt="523279763" title="523279763"/>
+    
+    <div class="cmp-image__overlay">
+        <div class="cmp-image__overlay-tags">
+            <div class="cmp-image__overlay-tag">Risk</div>
+        </div>
+        <p class="cmp-image__overlay-text">
+            How Apex Fintech Solutions takes fighting financial crime to new heights.
+            <span class="cmp-image__overlay-read-more">Read More</span>
+        </p>
+    </div>
+
+ 
+ 
+ <meta itemprop="caption" content="523279763"/>
+</div>
+
+    
+
+
+        
+    </div>
+
+ </a>
+</div>
+
+    
+</div>
+<div class="teaser cmp-teaser--overlay-card aem-GridColumn--default--none aem-GridColumn--tablet--4 aem-GridColumn aem-GridColumn--phone--4 aem-GridColumn--offset--default--0 aem-GridColumn--default--4">
+<div id="teaser-e660dcca44" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-e660dcca44&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T02:01:13Z&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/fueling-business-transformation-through-automation&#34;}}">
+ <a class="cmp-teaser__link" data-cmp-clickable href="https://www.genpact.com/insight/fueling-business-transformation-through-automation">
+     <div class="cmp-teaser__content">
+         
+    
+
+         
+    
+
+         
+    
+
+         
+    
+
+     </div>
+     
+    <div class="cmp-teaser__image">
+        
+            
+  <div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600" data-cmp-dmimage data-cmp-smartcroprendition="TeaserCard" data-cmp-src="https://s7ap1.scene7.com/is/image/genpactindia/fueling-business-transformation-through-automation%3ATeaserCard?ts=1733522468035&amp;dpr=off" data-asset-id="dda6c7ea-92a1-48ce-92e6-b6edd12e97d9" data-cmp-filereference="/content/dam/genpact/t4-and-t/images/fueling-business-transformation-through-automation.jpg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="https://s7ap1.scene7.com/is/image/genpactindia/fueling-business-transformation-through-automation%3ATeaserCard?ts=1733522468035&dpr=off" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="5105" height="3264" alt="People working"/>
+    
+    <div class="cmp-image__overlay">
+        <div class="cmp-image__overlay-tags">
+            <div class="cmp-image__overlay-tag">Intelligent automation</div>
+        </div>
+        <p class="cmp-image__overlay-text">
+            Fueling business transformation through automation.
+            <span class="cmp-image__overlay-read-more">Read more</span>
+        </p>
+    </div>
+
+ 
+ 
+ 
+</div>
+
+    
+
+
+        
+    </div>
+
+ </a>
+</div>
+
+    
+</div>
+<div class="teaser cmp-teaser--overlay-card aem-GridColumn--default--none aem-GridColumn--tablet--4 aem-GridColumn aem-GridColumn--phone--4 aem-GridColumn--offset--default--0 aem-GridColumn--default--4">
+<div id="teaser-fed734c9b2" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-fed734c9b2&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T02:01:45Z&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/making-small-businesses-dreams-come-true-with-cloud&#34;}}">
+ <a class="cmp-teaser__link" data-cmp-clickable href="https://www.genpact.com/insight/making-small-businesses-dreams-come-true-with-cloud">
+     <div class="cmp-teaser__content">
+         
+    <p class="cmp-teaser__pretitle">Cloud</p>
+
+         
+    
+
+         
+    
+
+         
+    
+
+     </div>
+     
+    <div class="cmp-teaser__image">
+        
+            
+  <div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600" data-cmp-dmimage data-cmp-smartcroprendition="TeaserCard" data-cmp-src="https://s7ap1.scene7.com/is/image/genpactindia/making-small-businesses-dreams-come-true-with-cloud%3ATeaserCard?ts=1733522493296&amp;dpr=off" data-asset-id="a1b583c3-801f-4ef5-84c2-79cf4a491d60" data-cmp-filereference="/content/dam/genpact/t4-and-t/images/making-small-businesses-dreams-come-true-with-cloud.jpg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="https://s7ap1.scene7.com/is/image/genpactindia/making-small-businesses-dreams-come-true-with-cloud%3ATeaserCard?ts=1733522493296&dpr=off" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="2121" height="1414" alt="malaysia, multi racial, hijabm coworking, cafe, business team, meeting, working" title="1152600453"/>
+    
+    <div class="cmp-image__overlay">
+        <div class="cmp-image__overlay-tags">
+            <div class="cmp-image__overlay-tag">Cloud</div>
+        </div>
+        <p class="cmp-image__overlay-text">
+            Making small businesses&#39; dreams come true with cloud.
+            <span class="cmp-image__overlay-read-more">Read more</span>
+        </p>
+    </div>
+
+ 
+ 
+ <meta itemprop="caption" content="1152600453"/>
+</div>
+
+    
+
+
+        
+    </div>
+
+ </a>
+</div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="container aem-GridColumn--tablet--12 aem-GridColumn--offset--tablet--0 aem-GridColumn--phone--none aem-GridColumn--default--hide aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--phone--4 aem-GridColumn--offset--phone--0 aem-GridColumn--offset--default--0 aem-GridColumn--tablet--hide">
+
+    
+    <div id="container-10dbd076a4" class="cmp-container">
+        
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--phone--4 ">
+    
+    <div class="carousel panelcontainer cmp-carousel--slide-in cmp-carousel--indicators-right cmp-carousel--inline-actions-arrows aem-GridColumn--tablet--12 aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--phone--4 aem-GridColumn--offset--default--0">
+  <div id="carousel-d46aacf271" class="cmp-carousel" role="group" aria-live="polite" aria-roledescription="carousel" data-cmp-is="carousel" data-cmp-delay="5000" data-cmp-autopause-disabled data-cmp-data-layer="{&#34;carousel-d46aacf271&#34;:{&#34;shownItems&#34;:[&#34;carousel-d46aacf271-item-68c1833206&#34;],&#34;@type&#34;:&#34;genpact/components/carousel&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T01:55:34Z&#34;}}" data-cmp-deep-linking-disabled="true" data-cmp-slide-increment="1" data-cmp-orientation="horizontal" data-placeholder-text="false">
+ 
+ <div class="cmp-carousel__content" aria-atomic="false" aria-live="polite">
+     <div id="carousel-d46aacf271-item-68c1833206-tabpanel" class="cmp-carousel__item cmp-carousel__item--active" role="tabpanel" aria-labelledby="carousel-d46aacf271-item-68c1833206-tab" aria-roledescription="slide" aria-label="Slide 1 of 3" data-cmp-data-layer="{&#34;carousel-d46aacf271-item-68c1833206&#34;:{&#34;@type&#34;:&#34;genpact/components/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T01:56:10Z&#34;,&#34;dc:title&#34;:&#34;Teaser 1&#34;}}" data-cmp-hook-carousel="item"><div class="teaser cmp-teaser--overlay-card">
+<div id="teaser-68c1833206" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-68c1833206&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T01:56:10Z&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/how-apex-fintech-solutions-takes-fighting-financial-crime-to-new-heights&#34;}}">
+ <a class="cmp-teaser__link" data-cmp-clickable href="https://www.genpact.com/insight/how-apex-fintech-solutions-takes-fighting-financial-crime-to-new-heights">
+     <div class="cmp-teaser__content">
+         
+    <p class="cmp-teaser__pretitle">Risk</p>
+
+         
+    
+
+         
+    
+
+         
+    
+
+     </div>
+     
+    <div class="cmp-teaser__image">
+        
+            
+  <div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600" data-cmp-dmimage data-cmp-smartcroprendition="TeaserCard" data-cmp-src="https://s7ap1.scene7.com/is/image/genpactindia/how-apex-fintech-solutions-takes-fighting-financial-crime-to-new-heights%3ATeaserCard?ts=1733522450376&amp;dpr=off" data-asset-id="7a2d6c5e-c9e1-4ab3-b289-de82ffa5f73a" data-cmp-filereference="/content/dam/genpact/t4-and-t/images/how-apex-fintech-solutions-takes-fighting-financial-crime-to-new-heights.jpg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="https://s7ap1.scene7.com/is/image/genpactindia/how-apex-fintech-solutions-takes-fighting-financial-crime-to-new-heights%3ATeaserCard?ts=1733522450376&dpr=off" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="6016" height="4016" alt="523279763" title="523279763"/>
+    
+    <div class="cmp-image__overlay">
+        <div class="cmp-image__overlay-tags">
+            <div class="cmp-image__overlay-tag">Risk</div>
+        </div>
+        <p class="cmp-image__overlay-text">
+            How Apex Fintech Solutions takes fighting financial crime to new heights.
+            <span class="cmp-image__overlay-read-more">Read more</span>
+        </p>
+    </div>
+
+ 
+ 
+ <meta itemprop="caption" content="523279763"/>
+</div>
+
+    
+
+
+        
+    </div>
+
+ </a>
+</div>
+
+    
+</div>
+</div>
+<div id="carousel-d46aacf271-item-d8be9471ae-tabpanel" class="cmp-carousel__item" role="tabpanel" aria-labelledby="carousel-d46aacf271-item-d8be9471ae-tab" aria-roledescription="slide" aria-label="Slide 2 of 3" data-cmp-data-layer="{&#34;carousel-d46aacf271-item-d8be9471ae&#34;:{&#34;@type&#34;:&#34;genpact/components/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T01:57:51Z&#34;,&#34;dc:title&#34;:&#34;Teaser 2&#34;}}" data-cmp-hook-carousel="item"><div class="teaser cmp-teaser--overlay-card">
+<div id="teaser-d8be9471ae" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-d8be9471ae&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T01:57:51Z&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/fueling-business-transformation-through-automation&#34;}}">
+ <a class="cmp-teaser__link" data-cmp-clickable href="https://www.genpact.com/insight/fueling-business-transformation-through-automation">
+     <div class="cmp-teaser__content">
+         
+    <p class="cmp-teaser__pretitle">Intelligent automation</p>
+
+         
+    
+
+         
+    
+
+         
+    
+
+     </div>
+     
+    <div class="cmp-teaser__image">
+        
+            
+  <div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600" data-cmp-dmimage data-cmp-smartcroprendition="TeaserCard" data-cmp-src="https://s7ap1.scene7.com/is/image/genpactindia/fueling-business-transformation-through-automation%3ATeaserCard?ts=1733522468035&amp;dpr=off" data-asset-id="dda6c7ea-92a1-48ce-92e6-b6edd12e97d9" data-cmp-filereference="/content/dam/genpact/t4-and-t/images/fueling-business-transformation-through-automation.jpg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="https://s7ap1.scene7.com/is/image/genpactindia/fueling-business-transformation-through-automation%3ATeaserCard?ts=1733522468035&dpr=off" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="5105" height="3264" alt="People working"/>
+    
+    <div class="cmp-image__overlay">
+        <div class="cmp-image__overlay-tags">
+            <div class="cmp-image__overlay-tag">Intelligent automation</div>
+        </div>
+        <p class="cmp-image__overlay-text">
+            Fueling business transformation through automation.
+            <span class="cmp-image__overlay-read-more">Read more</span>
+        </p>
+    </div>
+
+ 
+ 
+ 
+</div>
+
+    
+
+
+        
+    </div>
+
+ </a>
+</div>
+
+    
+</div>
+</div>
+<div id="carousel-d46aacf271-item-d00d57aa60-tabpanel" class="cmp-carousel__item" role="tabpanel" aria-labelledby="carousel-d46aacf271-item-d00d57aa60-tab" aria-roledescription="slide" aria-label="Slide 3 of 3" data-cmp-data-layer="{&#34;carousel-d46aacf271-item-d00d57aa60&#34;:{&#34;@type&#34;:&#34;genpact/components/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T01:58:25Z&#34;,&#34;dc:title&#34;:&#34;Teaser 3&#34;}}" data-cmp-hook-carousel="item"><div class="teaser cmp-teaser--overlay-card">
+<div id="teaser-d00d57aa60" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-d00d57aa60&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T01:58:25Z&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/making-small-businesses-dreams-come-true-with-cloud&#34;}}">
+ <a class="cmp-teaser__link" data-cmp-clickable href="https://www.genpact.com/insight/making-small-businesses-dreams-come-true-with-cloud">
+     <div class="cmp-teaser__content">
+         
+    <p class="cmp-teaser__pretitle">Cloud technologies</p>
+
+         
+    
+
+         
+    
+
+         
+    
+
+     </div>
+     
+    <div class="cmp-teaser__image">
+        
+            
+  <div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600" data-cmp-dmimage data-cmp-smartcroprendition="TeaserCard" data-cmp-src="https://s7ap1.scene7.com/is/image/genpactindia/making-small-businesses-dreams-come-true-with-cloud%3ATeaserCard?ts=1733522493296&amp;dpr=off" data-asset-id="a1b583c3-801f-4ef5-84c2-79cf4a491d60" data-cmp-filereference="/content/dam/genpact/t4-and-t/images/making-small-businesses-dreams-come-true-with-cloud.jpg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="https://s7ap1.scene7.com/is/image/genpactindia/making-small-businesses-dreams-come-true-with-cloud%3ATeaserCard?ts=1733522493296&dpr=off" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="2121" height="1414" alt="malaysia, multi racial, hijabm coworking, cafe, business team, meeting, working" title="1152600453"/>
+    
+    <div class="cmp-image__overlay">
+        <div class="cmp-image__overlay-tags">
+            <div class="cmp-image__overlay-tag">Cloud</div>
+        </div>
+        <p class="cmp-image__overlay-text">
+            Making small businesses&#39; dreams come true with cloud.
+            <span class="cmp-image__overlay-read-more">Read more</span>
+        </p>
+    </div>
+
+ 
+ 
+ <meta itemprop="caption" content="1152600453"/>
+</div>
+
+    
+
+
+        
+    </div>
+
+ </a>
+</div>
+
+    
+</div>
+</div>
+
+     
+    <div class="cmp-carousel__actions">
+        <button class="cmp-carousel__action cmp-carousel__action--previous" type="button" aria-label="Previous" data-cmp-hook-carousel="previous">
+            <span class="cmp-carousel__action-icon"></span>
+            <span class="cmp-carousel__action-text">Previous</span>
+        </button>
+        <button class="cmp-carousel__action cmp-carousel__action--next" type="button" aria-label="Next" data-cmp-hook-carousel="next">
+            <span class="cmp-carousel__action-icon"></span>
+            <span class="cmp-carousel__action-text">Next</span>
+        </button>
+        
+        
+    </div>
+
+     <ol class="cmp-carousel__indicators" role="tablist" aria-label="Choose a slide to display" data-cmp-hook-carousel="indicators">
+         <li id="carousel-d46aacf271-item-68c1833206-tab" class="cmp-carousel__indicator cmp-carousel__indicator--active" role="tab" aria-controls="carousel-d46aacf271-item-68c1833206-tabpanel" aria-label="Slide 1" data-cmp-hook-carousel="indicator">Teaser 1</li>
+<li id="carousel-d46aacf271-item-d8be9471ae-tab" class="cmp-carousel__indicator" role="tab" aria-controls="carousel-d46aacf271-item-d8be9471ae-tabpanel" aria-label="Slide 2" data-cmp-hook-carousel="indicator">Teaser 2</li>
+<li id="carousel-d46aacf271-item-d00d57aa60-tab" class="cmp-carousel__indicator" role="tab" aria-controls="carousel-d46aacf271-item-d00d57aa60-tabpanel" aria-label="Slide 3" data-cmp-hook-carousel="indicator">Teaser 3</li>
+
+     </ol>
+ </div>
+ 
+</div>
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="container cmp-container--background-gradient mb-section">
+
+    
+    
+    
+    <div id="container-d2937b5dee" class="cmp-container">
+        
+        <div class="quoteteaser teaser"><div id="quoteteaser-904732a778" class="cmp-quoteteaser" data-cmp-data-layer="{&#34;quoteteaser-904732a778&#34;:{&#34;@type&#34;:&#34;genpact/components/quoteteaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-10-28T22:41:26Z&#34;,&#34;dc:title&#34;:&#34;Sahil Chaudhary,&#34;,&#34;dc:description&#34;:&#34;&lt;p>Embracing the power of analytics, automation, and AI, Genpact is accelerating digital transformation and experience design&lt;/p>\r\n&#34;}}">
+    <div class="cmp-quoteteaser__content">
+        
+    <div class="cmp-quoteteaser__quote-info"><p>Embracing the power of analytics, automation, and AI, Genpact is accelerating digital transformation and experience design</p>
+</div>
+
+        <div class="cmp-quoteteaser__author-info">
+            <p class="cmp-quoteteaser__author-text">Sahil Chaudhary,</p>
+            <p class="cmp-quoteteaser__attribute-text">PRACTICE DIRECTOR, EVEREST GROUP</p>
+        </div>
+    </div>
+    
+    <div class="cmp-quoteteaser__icon">
+  <div data-cmp-is="image" data-cmp-dmimage data-cmp-src="https://s7ap1.scene7.com/is/content/genpactindia/Everest%20group%20logo%20white?ts=1733521110294&amp;dpr=off" data-asset-id="cdef739c-e879-4142-970c-044775649e40" data-cmp-filereference="/content/dam/genpact/logos/svg/Everest group logo white.svg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="https://s7ap1.scene7.com/is/content/genpactindia/Everest%20group%20logo%20white?ts=1733521110294&dpr=off" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt="Everest Group"/>
+    
+    
+
+ 
+ 
+ 
+</div>
+
+    
+
+</div>
+
+    
+    
+
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container cmp-container--background-gradient cmp-container--background-gradient-left mb-section">
+
+    
+    <div id="container-6e701ec6d1" class="cmp-container">
+        
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--phone--4 ">
+    
+    <div class="container cmp-container--vertical-bottom mb-m aem-GridColumn--tablet--12 aem-GridColumn--offset--tablet--0 aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--phone--4 aem-GridColumn--offset--phone--0 aem-GridColumn--offset--default--0">
+
+    
+    <div id="container-c608a1cb33" class="cmp-container">
+        
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--phone--4 ">
+    
+    <div class="hero teaser aem-GridColumn--tablet--12 aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--phone--4">
+<div class="cmp-hero cmp-teaser">
+    <div class="cmp-teaser__content">
+        <div class="cmp-teaser__text-container">
+            
+    
+
+            
+    <h2 class="cmp-teaser__title">
+        Fresh perspectives on banking and capital markets
+    </h2>
+
+            
+    
+
+        </div>
+        
+    <div class="cmp-teaser__action-container">
+        
+    <a class="cmp-teaser__action-link" id="teaser-02b06d6b92-cta-527e3da193" data-cmp-data-layer="{&#34;teaser-02b06d6b92-cta-527e3da193&#34;:{&#34;@type&#34;:&#34;genpact/components/hero/cta&#34;,&#34;dc:title&#34;:&#34;View all insights&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/banking-and-capital-markets&#34;}}" data-cmp-clickable href="https://www.genpact.com/insight/banking-and-capital-markets">View all insights</a>
+
+    </div>
+
+    </div>
+    
+    
+    
+</div>
+
+    
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="container cmp-container--vertical-bottom aem-GridColumn--tablet--12 aem-GridColumn--offset--tablet--0 aem-GridColumn--phone--hide aem-GridColumn--default--none aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--phone--4 aem-GridColumn--offset--phone--0 aem-GridColumn--offset--default--0">
+
+    
+    <div id="container-f9cf4afc19" class="cmp-container">
+        
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--phone--4 ">
+    
+    <div class="teaser cmp-teaser--overlay-card aem-GridColumn--default--none aem-GridColumn--tablet--4 aem-GridColumn aem-GridColumn--phone--4 aem-GridColumn--offset--default--0 aem-GridColumn--default--4">
+<div id="teaser-d771fe1650" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-d771fe1650&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T02:02:20Z&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/banking-on-collaboration-how-to-connect-business-and-technology-leaders&#34;}}">
+ <a class="cmp-teaser__link" data-cmp-clickable href="https://www.genpact.com/insight/banking-on-collaboration-how-to-connect-business-and-technology-leaders">
+     <div class="cmp-teaser__content">
+         
+    <p class="cmp-teaser__pretitle">Point of view</p>
+
+         
+    
+
+         
+    
+
+         
+    
+
+     </div>
+     
+    <div class="cmp-teaser__image">
+        
+            
+  <div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600" data-cmp-dmimage data-cmp-smartcroprendition="TeaserCard" data-cmp-src="https://s7ap1.scene7.com/is/image/genpactindia/banking-on-collaboration-how-to-connect-business-and-technology-leaders%3ATeaserCard?ts=1733522467439&amp;dpr=off" data-asset-id="9bdd0004-f6ae-40a8-ac7a-c34dbdba7ae8" data-cmp-filereference="/content/dam/genpact/t4-and-t/images/banking-on-collaboration-how-to-connect-business-and-technology-leaders.jpg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="https://s7ap1.scene7.com/is/image/genpactindia/banking-on-collaboration-how-to-connect-business-and-technology-leaders%3ATeaserCard?ts=1733522467439&dpr=off" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="5295" height="3586" alt="Happy businessman and businesswoman shaking hands at group board meeting. Professional business executive leaders making handshake agreement successful company trade partnership handshake concept." title="2021639264"/>
+    
+    <div class="cmp-image__overlay">
+        <div class="cmp-image__overlay-tags">
+            <div class="cmp-image__overlay-tag">Point of view</div>
+        </div>
+        <p class="cmp-image__overlay-text">
+            Banking on collaboration: How to connect business and technology leaders.
+            <span class="cmp-image__overlay-read-more">Watch the video</span>
+        </p>
+    </div>
+
+ 
+ 
+ <meta itemprop="caption" content="2021639264"/>
+</div>
+
+    
+
+
+        
+    </div>
+
+ </a>
+</div>
+
+    
+</div>
+<div class="teaser cmp-teaser--overlay-card aem-GridColumn--default--none aem-GridColumn--tablet--4 aem-GridColumn aem-GridColumn--phone--4 aem-GridColumn--offset--default--0 aem-GridColumn--default--4">
+<div id="teaser-8d3c93cd36" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-8d3c93cd36&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T02:02:47Z&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/fighting-financial-crime-with-gen-ai-industry-leaders-discuss-an-applied-use-case&#34;}}">
+ <a class="cmp-teaser__link" data-cmp-clickable href="https://www.genpact.com/insight/fighting-financial-crime-with-gen-ai-industry-leaders-discuss-an-applied-use-case">
+     <div class="cmp-teaser__content">
+         
+    <p class="cmp-teaser__pretitle">Case study</p>
+
+         
+    
+
+         
+    
+
+         
+    
+
+     </div>
+     
+    <div class="cmp-teaser__image">
+        
+            
+  <div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600" data-cmp-dmimage data-cmp-smartcroprendition="TeaserCard" data-cmp-src="https://s7ap1.scene7.com/is/image/genpactindia/fighting-financial-crime-with-gen-ai-industry-leaders-discuss-an-applied-use-case%3ATeaserCard?ts=1733522467204&amp;dpr=off" data-asset-id="7364ea64-3d30-4b0b-99b3-3816bb4fcefe" data-cmp-filereference="/content/dam/genpact/t4-and-t/images/fighting-financial-crime-with-gen-ai-industry-leaders-discuss-an-applied-use-case.jpeg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="https://s7ap1.scene7.com/is/image/genpactindia/fighting-financial-crime-with-gen-ai-industry-leaders-discuss-an-applied-use-case%3ATeaserCard?ts=1733522467204&dpr=off" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="7934" height="5292" alt="Happy business people, meeting and strategy in planning, team discussion or sharing idea at office. Group of employees in teamwork, collaboration or discussing project plan in conference at workplace." title="Happy business people, meeting and strategy in planning, team discussion or sharing idea at office. Group of employees in teamwork, collaboration or discussing project plan in conference at workplace"/>
+    
+    <div class="cmp-image__overlay">
+        <div class="cmp-image__overlay-tags">
+            <div class="cmp-image__overlay-tag">Case study</div>
+        </div>
+        <p class="cmp-image__overlay-text">
+            Fighting financial crime with gen AI: Industry leaders discuss an applied use case.
+            <span class="cmp-image__overlay-read-more">Watch the video</span>
+        </p>
+    </div>
+
+ 
+ 
+ <meta itemprop="caption" content="Happy business people, meeting and strategy in planning, team discussion or sharing idea at office. Group of employees in teamwork, collaboration or discussing project plan in conference at workplace"/>
+</div>
+
+    
+
+
+        
+    </div>
+
+ </a>
+</div>
+
+    
+</div>
+<div class="teaser cmp-teaser--overlay-card aem-GridColumn--default--none aem-GridColumn--tablet--4 aem-GridColumn aem-GridColumn--phone--4 aem-GridColumn--offset--default--0 aem-GridColumn--default--4">
+<div id="teaser-4270cd7e7f" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-4270cd7e7f&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T02:03:18Z&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/securing-support-how-to-get-bank-executives-to-back-digital-transformation&#34;}}">
+ <a class="cmp-teaser__link" data-cmp-clickable href="https://www.genpact.com/insight/securing-support-how-to-get-bank-executives-to-back-digital-transformation">
+     <div class="cmp-teaser__content">
+         
+    <p class="cmp-teaser__pretitle">Point of view</p>
+
+         
+    
+
+         
+    
+
+         
+    
+
+     </div>
+     
+    <div class="cmp-teaser__image">
+        
+            
+  <div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600" data-cmp-dmimage data-cmp-smartcroprendition="TeaserCard" data-cmp-src="https://s7ap1.scene7.com/is/image/genpactindia/securing-support-how-to-get-bank-executives-to-back-digital-transformation%3ATeaserCard?ts=1733522470764&amp;dpr=off" data-asset-id="9bca2b0c-e0dc-4d21-a7ab-5756bee33899" data-cmp-filereference="/content/dam/genpact/t4-and-t/images/securing-support-how-to-get-bank-executives-to-back-digital-transformation.jpg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="https://s7ap1.scene7.com/is/image/genpactindia/securing-support-how-to-get-bank-executives-to-back-digital-transformation%3ATeaserCard?ts=1733522470764&dpr=off" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="5668" height="3779" alt="Serious middle aged businesswoman talks at group board executive meeting, confident mature old female leader speaking discussing work offers solution negotiating with partners at corporate briefing" title="1289761519"/>
+    
+    <div class="cmp-image__overlay">
+        <div class="cmp-image__overlay-tags">
+            <div class="cmp-image__overlay-tag">Point of view</div>
+        </div>
+        <p class="cmp-image__overlay-text">
+            Securing support: How to get bank executives to back digital transformation.
+            <span class="cmp-image__overlay-read-more">Watch the video</span>
+        </p>
+    </div>
+
+ 
+ 
+ <meta itemprop="caption" content="1289761519"/>
+</div>
+
+    
+
+
+        
+    </div>
+
+ </a>
+</div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="container aem-GridColumn--tablet--12 aem-GridColumn--offset--tablet--0 aem-GridColumn--phone--none aem-GridColumn--default--hide aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--phone--4 aem-GridColumn--offset--phone--0 aem-GridColumn--offset--default--0 aem-GridColumn--tablet--hide">
+
+    
+    <div id="container-66b80cd7ff" class="cmp-container">
+        
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--phone--4 ">
+    
+    <div class="carousel panelcontainer cmp-carousel--slide-in cmp-carousel--indicators-right cmp-carousel--inline-actions-arrows aem-GridColumn--tablet--12 aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--phone--4 aem-GridColumn--offset--default--0">
+  <div id="carousel-d9c1155227" class="cmp-carousel" role="group" aria-live="polite" aria-roledescription="carousel" data-cmp-is="carousel" data-cmp-delay="5000" data-cmp-autopause-disabled data-cmp-data-layer="{&#34;carousel-d9c1155227&#34;:{&#34;shownItems&#34;:[&#34;carousel-d9c1155227-item-38d0278b9d&#34;],&#34;@type&#34;:&#34;genpact/components/carousel&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T01:56:26Z&#34;}}" data-cmp-deep-linking-disabled="true" data-cmp-slide-increment="1" data-cmp-orientation="horizontal" data-placeholder-text="false">
+ 
+ <div class="cmp-carousel__content" aria-atomic="false" aria-live="polite">
+     <div id="carousel-d9c1155227-item-38d0278b9d-tabpanel" class="cmp-carousel__item cmp-carousel__item--active" role="tabpanel" aria-labelledby="carousel-d9c1155227-item-38d0278b9d-tab" aria-roledescription="slide" aria-label="Slide 1 of 3" data-cmp-data-layer="{&#34;carousel-d9c1155227-item-38d0278b9d&#34;:{&#34;@type&#34;:&#34;genpact/components/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T01:57:00Z&#34;,&#34;dc:title&#34;:&#34;Teaser 1&#34;}}" data-cmp-hook-carousel="item"><div class="teaser cmp-teaser--overlay-card">
+<div id="teaser-38d0278b9d" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-38d0278b9d&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T01:57:00Z&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/banking-on-collaboration-how-to-connect-business-and-technology-leaders&#34;}}">
+ <a class="cmp-teaser__link" data-cmp-clickable href="https://www.genpact.com/insight/banking-on-collaboration-how-to-connect-business-and-technology-leaders">
+     <div class="cmp-teaser__content">
+         
+    <p class="cmp-teaser__pretitle">Point of view</p>
+
+         
+    
+
+         
+    
+
+         
+    
+
+     </div>
+     
+    <div class="cmp-teaser__image">
+        
+            
+  <div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600" data-cmp-dmimage data-cmp-smartcroprendition="TeaserCard" data-cmp-src="https://s7ap1.scene7.com/is/image/genpactindia/banking-on-collaboration-how-to-connect-business-and-technology-leaders%3ATeaserCard?ts=1733522467439&amp;dpr=off" data-asset-id="9bdd0004-f6ae-40a8-ac7a-c34dbdba7ae8" data-cmp-filereference="/content/dam/genpact/t4-and-t/images/banking-on-collaboration-how-to-connect-business-and-technology-leaders.jpg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="https://s7ap1.scene7.com/is/image/genpactindia/banking-on-collaboration-how-to-connect-business-and-technology-leaders%3ATeaserCard?ts=1733522467439&dpr=off" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="5295" height="3586" alt="Happy businessman and businesswoman shaking hands at group board meeting. Professional business executive leaders making handshake agreement successful company trade partnership handshake concept." title="2021639264"/>
+    
+    <div class="cmp-image__overlay">
+        <div class="cmp-image__overlay-tags">
+            <div class="cmp-image__overlay-tag">Point of view</div>
+        </div>
+        <p class="cmp-image__overlay-text">
+            Banking on collaboration: How to connect business and technology leaders.
+            <span class="cmp-image__overlay-read-more">Watch more</span>
+        </p>
+    </div>
+
+ 
+ 
+ <meta itemprop="caption" content="2021639264"/>
+</div>
+
+    
+
+
+        
+    </div>
+
+ </a>
+</div>
+
+    
+</div>
+</div>
+<div id="carousel-d9c1155227-item-ddc26133b5-tabpanel" class="cmp-carousel__item" role="tabpanel" aria-labelledby="carousel-d9c1155227-item-ddc26133b5-tab" aria-roledescription="slide" aria-label="Slide 2 of 3" data-cmp-data-layer="{&#34;carousel-d9c1155227-item-ddc26133b5&#34;:{&#34;@type&#34;:&#34;genpact/components/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T01:59:21Z&#34;,&#34;dc:title&#34;:&#34;Teaser 2&#34;}}" data-cmp-hook-carousel="item"><div class="teaser cmp-teaser--overlay-card">
+<div id="teaser-ddc26133b5" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-ddc26133b5&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T01:59:21Z&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/fighting-financial-crime-with-gen-ai-industry-leaders-discuss-an-applied-use-case&#34;}}">
+ <a class="cmp-teaser__link" data-cmp-clickable href="https://www.genpact.com/insight/fighting-financial-crime-with-gen-ai-industry-leaders-discuss-an-applied-use-case">
+     <div class="cmp-teaser__content">
+         
+    <p class="cmp-teaser__pretitle">Case study</p>
+
+         
+    
+
+         
+    
+
+         
+    
+
+     </div>
+     
+    <div class="cmp-teaser__image">
+        
+            
+  <div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600" data-cmp-dmimage data-cmp-smartcroprendition="TeaserCard" data-cmp-src="https://s7ap1.scene7.com/is/image/genpactindia/fighting-financial-crime-with-gen-ai-industry-leaders-discuss-an-applied-use-case%3ATeaserCard?ts=1733522467204&amp;dpr=off" data-asset-id="7364ea64-3d30-4b0b-99b3-3816bb4fcefe" data-cmp-filereference="/content/dam/genpact/t4-and-t/images/fighting-financial-crime-with-gen-ai-industry-leaders-discuss-an-applied-use-case.jpeg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="https://s7ap1.scene7.com/is/image/genpactindia/fighting-financial-crime-with-gen-ai-industry-leaders-discuss-an-applied-use-case%3ATeaserCard?ts=1733522467204&dpr=off" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="7934" height="5292" alt="Happy business people, meeting and strategy in planning, team discussion or sharing idea at office. Group of employees in teamwork, collaboration or discussing project plan in conference at workplace." title="Happy business people, meeting and strategy in planning, team discussion or sharing idea at office. Group of employees in teamwork, collaboration or discussing project plan in conference at workplace"/>
+    
+    <div class="cmp-image__overlay">
+        <div class="cmp-image__overlay-tags">
+            <div class="cmp-image__overlay-tag">Case study</div>
+        </div>
+        <p class="cmp-image__overlay-text">
+            Fighting financial crime with gen AI: Industry leaders discuss an applied use case.
+            <span class="cmp-image__overlay-read-more">Watch more</span>
+        </p>
+    </div>
+
+ 
+ 
+ <meta itemprop="caption" content="Happy business people, meeting and strategy in planning, team discussion or sharing idea at office. Group of employees in teamwork, collaboration or discussing project plan in conference at workplace"/>
+</div>
+
+    
+
+
+        
+    </div>
+
+ </a>
+</div>
+
+    
+</div>
+</div>
+<div id="carousel-d9c1155227-item-fe1c7646a1-tabpanel" class="cmp-carousel__item" role="tabpanel" aria-labelledby="carousel-d9c1155227-item-fe1c7646a1-tab" aria-roledescription="slide" aria-label="Slide 3 of 3" data-cmp-data-layer="{&#34;carousel-d9c1155227-item-fe1c7646a1&#34;:{&#34;@type&#34;:&#34;genpact/components/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T02:00:12Z&#34;,&#34;dc:title&#34;:&#34;Teaser 3&#34;}}" data-cmp-hook-carousel="item"><div class="teaser cmp-teaser--overlay-card">
+<div id="teaser-fe1c7646a1" class="cmp-teaser" data-cmp-data-layer="{&#34;teaser-fe1c7646a1&#34;:{&#34;@type&#34;:&#34;genpact/components/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2024-12-03T02:00:12Z&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/insight/securing-support-how-to-get-bank-executives-to-back-digital-transformation&#34;}}">
+ <a class="cmp-teaser__link" data-cmp-clickable href="https://www.genpact.com/insight/securing-support-how-to-get-bank-executives-to-back-digital-transformation">
+     <div class="cmp-teaser__content">
+         
+    <p class="cmp-teaser__pretitle">Point of view</p>
+
+         
+    
+
+         
+    
+
+         
+    
+
+     </div>
+     
+    <div class="cmp-teaser__image">
+        
+            
+  <div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600" data-cmp-dmimage data-cmp-smartcroprendition="TeaserCard" data-cmp-src="https://s7ap1.scene7.com/is/image/genpactindia/securing-support-how-to-get-bank-executives-to-back-digital-transformation%3ATeaserCard?ts=1733522470764&amp;dpr=off" data-asset-id="9bca2b0c-e0dc-4d21-a7ab-5756bee33899" data-cmp-filereference="/content/dam/genpact/t4-and-t/images/securing-support-how-to-get-bank-executives-to-back-digital-transformation.jpg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="https://s7ap1.scene7.com/is/image/genpactindia/securing-support-how-to-get-bank-executives-to-back-digital-transformation%3ATeaserCard?ts=1733522470764&dpr=off" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="5668" height="3779" alt="Serious middle aged businesswoman talks at group board executive meeting, confident mature old female leader speaking discussing work offers solution negotiating with partners at corporate briefing" title="1289761519"/>
+    
+    <div class="cmp-image__overlay">
+        <div class="cmp-image__overlay-tags">
+            <div class="cmp-image__overlay-tag">Point of view</div>
+        </div>
+        <p class="cmp-image__overlay-text">
+            Securing support: How to get bank executives to back digital transformation.
+            <span class="cmp-image__overlay-read-more">Watch more</span>
+        </p>
+    </div>
+
+ 
+ 
+ <meta itemprop="caption" content="1289761519"/>
+</div>
+
+    
+
+
+        
+    </div>
+
+ </a>
+</div>
+
+    
+</div>
+</div>
+
+     
+    <div class="cmp-carousel__actions">
+        <button class="cmp-carousel__action cmp-carousel__action--previous" type="button" aria-label="Previous" data-cmp-hook-carousel="previous">
+            <span class="cmp-carousel__action-icon"></span>
+            <span class="cmp-carousel__action-text">Previous</span>
+        </button>
+        <button class="cmp-carousel__action cmp-carousel__action--next" type="button" aria-label="Next" data-cmp-hook-carousel="next">
+            <span class="cmp-carousel__action-icon"></span>
+            <span class="cmp-carousel__action-text">Next</span>
+        </button>
+        
+        
+    </div>
+
+     <ol class="cmp-carousel__indicators" role="tablist" aria-label="Choose a slide to display" data-cmp-hook-carousel="indicators">
+         <li id="carousel-d9c1155227-item-38d0278b9d-tab" class="cmp-carousel__indicator cmp-carousel__indicator--active" role="tab" aria-controls="carousel-d9c1155227-item-38d0278b9d-tabpanel" aria-label="Slide 1" data-cmp-hook-carousel="indicator">Teaser 1</li>
+<li id="carousel-d9c1155227-item-ddc26133b5-tab" class="cmp-carousel__indicator" role="tab" aria-controls="carousel-d9c1155227-item-ddc26133b5-tabpanel" aria-label="Slide 2" data-cmp-hook-carousel="indicator">Teaser 2</li>
+<li id="carousel-d9c1155227-item-fe1c7646a1-tab" class="cmp-carousel__indicator" role="tab" aria-controls="carousel-d9c1155227-item-fe1c7646a1-tabpanel" aria-label="Slide 3" data-cmp-hook-carousel="indicator">Teaser 3</li>
+
+     </ol>
+ </div>
+ 
+</div>
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="container cmp-container--background-gradient cmp-container--vertical-bottom mt-xxl mb-section">
+
+    
+    <div id="container-b1c6d27ff6" class="cmp-container">
+        
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 aem-Grid--phone--4 ">
+    
+    <div class="title cmp-title--v2 cmp-title--color-brand-secondary aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--phone--4">
+<div data-cmp-data-layer="{&#34;title-3bd87e5e9e&#34;:{&#34;@type&#34;:&#34;genpact/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2024-10-22T21:13:52Z&#34;,&#34;dc:title&#34;:&#34;Get in touch with an&#34;}}" id="title-3bd87e5e9e" class="cmp-title">
+    <h2 class="cmp-title__text">Get in touch with an</h2>
+</div>
+
+    
+
+</div>
+<div class="title cmp-title--v2 cmp-title--regular cmp-title--color-content-tertiary cmp-title--align-left aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn aem-GridColumn--default--8 aem-GridColumn--phone--4 aem-GridColumn--offset--phone--0 aem-GridColumn--offset--default--0">
+<div data-cmp-data-layer="{&#34;title-3382cb34e1&#34;:{&#34;@type&#34;:&#34;genpact/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2024-10-31T21:17:08Z&#34;,&#34;dc:title&#34;:&#34;industry specialist&#34;}}" id="title-3382cb34e1" class="cmp-title">
+    <h1 class="cmp-title__text">industry specialist</h1>
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--base-v2 cmp-button--primary-v2 cmp-button--align-right-v2 mb-xs aem-GridColumn--default--none aem-GridColumn aem-GridColumn--phone--4 aem-GridColumn--offset--default--0 aem-GridColumn--default--4">
+  <a id="button-51f73a5501" class="cmp-button" aria-label="Contact Us" data-cmp-clickable data-cmp-data-layer="{&#34;button-51f73a5501&#34;:{&#34;@type&#34;:&#34;genpact/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2024-11-30T20:12:50Z&#34;,&#34;dc:title&#34;:&#34;let&#39;s talk&#34;,&#34;xdm:linkURL&#34;:&#34;https://genpact.com/contact-us/client-prospects&#34;}}" href="https://genpact.com/contact-us/client-prospects">
+
+    
+
+<span class="cmp-button__text">let&#39;s talk</span>
+</a>
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+        
+    </div>
+
+</div>
+<div class="experiencefragment">
+<div id="experiencefragment-829e7772c3" class="cmp-experiencefragment cmp-experiencefragment--footer">
+
+
+    
+    
+    
+    <div id="container-7a028a16b0" class="cmp-container">
+        
+        <div class="container cmp-container--footer cmp-container--footer-top">
+
+    
+    
+    
+    <div id="container-8291443a9b" class="cmp-container">
+        
+        <div class="image cmp-image--header-logo">
+  <div data-cmp-is="image" data-cmp-src="/content/experience-fragments/genpact/us/en/site/footer/master/_jcr_content/root/container/image.coreimg{.width}.svg/1733774223058/genpact-logo.svg" data-asset-id="60206dd3-034c-4adf-81d8-3ae18972bbde" data-cmp-filereference="/content/dam/genpact/logos/svg/genpact-logo.svg" data-cmp-hook-image="imageV3" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+ 
+     <img src="/content/experience-fragments/genpact/us/en/site/footer/master/_jcr_content/root/container/image.coreimg.svg/1733774223058/genpact-logo.svg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt/>
+    
+    
+
+ 
+ 
+ 
+</div>
+
+    
+
+</div>
+<div class="text cmp-text--footer-copy">
+<div data-cmp-data-layer="{&#34;text-0f01df63a2&#34;:{&#34;@type&#34;:&#34;genpact/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-05T20:30:44Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>The relentless pursuit of a world that works better for people&lt;/p>\r\n&#34;}}" id="text-0f01df63a2" class="cmp-text">
+    <p>The relentless pursuit of a world that works better for people</p>
+
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container cmp-container--footer cmp-container--footer-middle">
+
+    
+    
+    
+    <div id="container-f4a6783e01" class="cmp-container">
+        
+        <div class="experiencefragment">
+<div id="experiencefragment-625e861879" class="cmp-experiencefragment cmp-experiencefragment--social-media">
+
+
+    
+    <div id="container-a2f021066e" class="cmp-container">
+        
+
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="container cmp-container--social-icons aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    
+    <div id="container-3e41276af1" class="cmp-container">
+        
+        <div class="button">
+  <a id="button-bdbc42bdb3" class="cmp-button" data-cmp-clickable data-cmp-data-layer="{&#34;button-bdbc42bdb3&#34;:{&#34;@type&#34;:&#34;genpact/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-22T12:35:01Z&#34;,&#34;xdm:linkURL&#34;:&#34;https://x.com/genpact&#34;}}" href="https://x.com/genpact" target="_blank">
+
+    <span class="cmp-button__icon cmp-button__icon--x-twitter" aria-hidden="true"></span>
+
+
+</a>
+</div>
+<div class="button">
+  <a id="button-e0ff89fb3b" class="cmp-button" data-cmp-clickable data-cmp-data-layer="{&#34;button-e0ff89fb3b&#34;:{&#34;@type&#34;:&#34;genpact/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-22T12:35:23Z&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.facebook.com/ProudToBeGenpact/&#34;}}" href="https://www.facebook.com/ProudToBeGenpact/" target="_blank">
+
+    <span class="cmp-button__icon cmp-button__icon--facebook" aria-hidden="true"></span>
+
+
+</a>
+</div>
+<div class="button">
+  <a id="button-ac919246a7" class="cmp-button" data-cmp-clickable data-cmp-data-layer="{&#34;button-ac919246a7&#34;:{&#34;@type&#34;:&#34;genpact/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-22T12:36:15Z&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.linkedin.com/company/210064?trk=tyah&#34;}}" href="https://www.linkedin.com/company/210064?trk=tyah" target="_blank">
+
+    <span class="cmp-button__icon cmp-button__icon--linkedin" aria-hidden="true"></span>
+
+
+</a>
+</div>
+<div class="button">
+  <a id="button-7567c8b6db" class="cmp-button" data-cmp-clickable data-cmp-data-layer="{&#34;button-7567c8b6db&#34;:{&#34;@type&#34;:&#34;genpact/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-22T12:36:34Z&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.youtube.com/genpactltd&#34;}}" href="https://www.youtube.com/genpactltd" target="_blank">
+
+    <span class="cmp-button__icon cmp-button__icon--youtube" aria-hidden="true"></span>
+
+
+</a>
+</div>
+
+        
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="list cmp-list--footer-links">
+<ul id="footer-links" data-cmp-data-layer="{&#34;footer-links&#34;:{&#34;@type&#34;:&#34;genpact/components/list&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-31T20:11:32Z&#34;}}" class="cmp-list">
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;footer-links-item-b8f36a1be5&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:39Z&#34;,&#34;dc:title&#34;:&#34;Contact Us&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/contact-us&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/contact-us">
+        <span class="cmp-list__item-title">Contact Us</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;footer-links-item-279db3cf65&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:40Z&#34;,&#34;dc:title&#34;:&#34;Locations&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/locations&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/locations">
+        <span class="cmp-list__item-title">Locations</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;footer-links-item-8ecb5397d6&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:40Z&#34;,&#34;dc:title&#34;:&#34;Our Purpose&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/purpose&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/purpose">
+        <span class="cmp-list__item-title">Our Purpose</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;footer-links-item-c70c5b02c3&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:39Z&#34;,&#34;dc:title&#34;:&#34;Genpact’s Data Privacy Approach&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/privacy/genpact-data-privacy-approach&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/privacy/genpact-data-privacy-approach">
+        <span class="cmp-list__item-title">Genpact’s Data Privacy Approach</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;footer-links-item-61af0f6a59&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:39Z&#34;,&#34;dc:title&#34;:&#34;Privacy Notice&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/privacy&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/privacy">
+        <span class="cmp-list__item-title">Privacy Notice</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;footer-links-item-21b1eec3c9&#34;:{&#34;@type&#34;:&#34;genpact/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-23T14:06:40Z&#34;,&#34;dc:title&#34;:&#34;Terms and Conditions&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.genpact.com/privacy/terms-and-conditions&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="https://www.genpact.com/privacy/terms-and-conditions">
+        <span class="cmp-list__item-title">Terms and Conditions</span>
+        
+    </a>
+    
+</li>
+    
+</ul>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="text cmp-text--copyright">
+<div data-cmp-data-layer="{&#34;text-df9bc89a70&#34;:{&#34;@type&#34;:&#34;genpact/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-04T18:21:14Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Copyright © Genpact 2024. All rights reserved.&lt;/p>\r\n&#34;}}" id="text-df9bc89a70" class="cmp-text">
+    <p>Copyright © Genpact 2024. All rights reserved.</p>
+
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+
+    
+</div>
+
+        
+    </div>
+
+</div>
+
+
+              
+    
+    <script async src="/etc.clientlibs/genpact/clientlibs/clientlib-site.lc-2634e148e52760fa4ff891812a2b1fd9-lc.min.js"></script>
+
+
+    
+
+    
+    <script async src="/etc.clientlibs/core/wcm/components/commons/site/clientlibs/container.lc-0a6aff292f5cc42142779cde92054524-lc.min.js"></script>
+<script async src="/etc.clientlibs/clientlibs/granite/jquery/granite/csrf.lc-56934e461ff6c436f962a5990541a527-lc.min.js"></script>
+<script async src="/etc.clientlibs/genpact/clientlibs/clientlib-base.lc-f3ecfefb39465238243a8390c38a5e59-lc.min.js"></script>
+
+
+
+
+
+    
+
+    
+
+    
+    
+    
+
+          
+      </body>
+  </html>
